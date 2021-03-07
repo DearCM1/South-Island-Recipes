@@ -59,4 +59,6 @@ Criticising or attacking cherished beliefs or institutions.
 Anger.\
 *"His eyes filled with unmistaking ire."*
 
-#### 
+#### Asinine
+Extremely foolish.\
+*"Her participation in the mob violence was asinine behaviour."*
