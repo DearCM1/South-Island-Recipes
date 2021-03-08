@@ -84,3 +84,5 @@ Anger.
 
 Extremely foolish.
 >*"Her participation in the mob violence was asinine behaviour."*
+
+new entry
