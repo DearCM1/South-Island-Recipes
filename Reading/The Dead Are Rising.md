@@ -10,9 +10,9 @@ Write once book is complete.
 
 ### *Chapter 1: Born Against the Current*
 
-- Begins with Malcolm's parents, Louise and Early (Earl) Little encountered the KKK in their home in Omaha.
-- Earl was born in Georgia, as the child of former slaves. Who was an organiser and preacher of the [Universal Negro Improvement Association](https://case.edu/ech/articles/u/universal-negro-improvement-assn-unia#:~:text=The%20UNIVERSAL%20NEGRO%20IMPROVEMENT%20ASSN,in%20Cleveland%20at%202200%20E.) (UNIA), founded by Jamaican political activist, [Marcus Garvey](https://en.wikipedia.org/wiki/Marcus_Garvey).
-    - **Note:** UNIA's core message was to promote pan-Africanism and solidify black presence within the Western World.
+- Begins with Malcolm's parents, Louise and Early (Earl) Little, who encountered the KKK in their home in Omaha.
+- Earl was born in Georgia, as the child of former slaves. He was an organiser and preacher of the [Universal Negro Improvement Association](https://case.edu/ech/articles/u/universal-negro-improvement-assn-unia#:~:text=The%20UNIVERSAL%20NEGRO%20IMPROVEMENT%20ASSN,in%20Cleveland%20at%202200%20E.) (UNIA), founded by Jamaican political activist, [Marcus Garvey](https://en.wikipedia.org/wiki/Marcus_Garvey).
+    - **Note:** [UNIA](https://www.britannica.com/topic/Universal-Negro-Improvement-Association)'s core message was to promote pan-Africanism, dedicated to creating a strong African continent, independent of white society. UNIA was an opposing force to the [National Association for the Advancement of Colored People](https://www.britannica.com/topic/National-Association-for-the-Advancement-of-Colored-People) (NAACP), which aimed on assimilating black people into white society.
 - [Louise](https://en.wikipedia.org/wiki/Louise_Little) was born in Grenada. Daughter of Edith (Nigerian born), Louise was a result of rape from scottish father, Edward Norton, a member of the British Navy vessel that liberated Edith from a slavery ship. Louise was educated in a Grenadian Anglican school.
 - Chapter paints gruesome racial landscape with the story of [Will Brown](https://en.wikipedia.org/wiki/Omaha_race_riot_of_1919) in Omaha. Story of a black man falsely accused of assault. In public court of opinion, Brown was found guilty and publically lynched after a 10,000 strong mob burned down the county courthouse in demand for the authorities to hand him over before his trial begun.
     - **Note:** This riot was in a series of 20 mass race riots in the United States noted the [Red Summer of 1919](https://en.wikipedia.org/wiki/Red_Summer).
