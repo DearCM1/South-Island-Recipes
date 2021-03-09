@@ -15,6 +15,7 @@ Ingredients | Quantity
 Butter | 25g
 Small Onion (diced) | 1x
 Chestnut Mushrooms | 125g
+Garlic | 4 cloves
 Arborio Risotto Rice | 150g
 Dry White Wine  | 75ml
 Good Chicken Stock | 700ml
@@ -28,7 +29,7 @@ Wild Rocket | 30g
 
 1. Sweat the onions in a pan of melted butter until soft.
 
-2. Add mushrooms and continue cooking.
+2. Add mushrooms and garlic and continue cooking.
 
 3. Once mushrooms are soft, add rice and cook until translucent.
 
