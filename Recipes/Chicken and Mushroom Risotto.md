@@ -3,7 +3,7 @@
 ## At A Glance
 
 Quick | Look
-- | -
+-- | --
 Serves | 2
 Time | 65 mins
 Calories | 600kcal
@@ -11,16 +11,16 @@ Calories | 600kcal
 ## What You'll Need
 
 Ingredients | Quantity
-- | -
+-- | --
 Butter | 25g
 Small Onion (diced) | 1x
+Chestnut Mushrooms | 125g
 Arborio Risotto Rice | 150g
 Dry White Wine  | 75ml
 Good Chicken Stock | 700ml
 Chicken Breast | 2x
-Chestnut Mushrooms | 125g
-Parmesan | 25g
 Peas | 200g
+Parmesan | 25g
 Flat-Leaf Parsley | 1/4 Bunch
 Wild Rocket | 30g
 
