@@ -14,7 +14,7 @@ Belonging to an earlier period, especially so as to appear old-fashioned.
 ### **Fait Accompli**
 
 A thing that has already happened/decided before those affected hear about it, and have no option but to accept it.
-> *"The students low grades were a fait accompli."*
+> *"The student's low grades were a fait accompli."*
 
 ### **Eschew**
 
