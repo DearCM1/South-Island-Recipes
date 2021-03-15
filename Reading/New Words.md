@@ -89,3 +89,8 @@ Extremely foolish.
 
 In econonmics, a monopsony is a market structure in which a single by substancially cibtriks the market as a major purchaser and therefore controls the price of commerce in said market.
 >*"The De Beers group has a monopsony on the diamond market. They owned 80% of the global diamond supply in the 1980s."*
+
+### **Clandestine**
+
+Something that is kept secret, typically examples are when an action is of importance, illicit in nature, or socially frowned.
+>*"The UN condemed the United States following the exposure of their clandestine torture interrogation methods, violating human rights."*
