@@ -1,4 +1,4 @@
-# **The Dead Are Rising**
+# **The Dead Are Arising**
 
 by *Les Payne and Tamara Payne*
 
