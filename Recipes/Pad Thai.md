@@ -7,8 +7,8 @@
 Quick | Look
 -- | --
 Serves | 2
-Time | 30 mins
-Calories | 710kcal/serving
+Time | 40 mins
+Calories | 750kcal/serving
 
 ---
 
@@ -18,32 +18,38 @@ Calories | 710kcal/serving
 
 Ingredients | Quantity
 -- | --
-Rice Noodles | 120g
+Rice Noodles | 100g
 Small Brown Onion | x1
 Eggs | x2
 Chicken | 400g
+Vegetable Oil | 1 tablespoon
 Toasted Seasame Oil | 2 teaspoon
 Broccoli Head (cut to florets) | 0.5x
-Vegetable Oil | 1 tablespoon
 Red Pepper (sliced) | 1
-Lime Wedge | 2x
-Spring Onion (chopped) | 2 sprigs
-Parsley (roughly chopepd) | 5 sprigs
-Seasame Seeds | pinch
 
 ### **Sauce**
 
 Ingredients | Quantity
 -- | --
-Peanut Butter | 1 tablespoon
-Fish Sauce | 2 tablespoon
+Peanut Butter | 1.5 tablespoon
+Fish Sauce | 1 tablespoon
 Brown Sugar | 3 tablespoon
 Rice Wine Vinegar | 3 tablespoon
-Dark Soy Sauce | 1 tablespoon
-Garlic Cloves (minced) | x4
+Dark Soy Sauce | 2 tablespoon
+Garlic Cloves (minced) | x6
 Ginger (minced) | 1 tablespoon
 Green Chilli (diced, de-seeded) | 0.5x
 Juice from Lime Half | 1x
+
+### **Garnish**
+
+Ingredients | Quantity
+-- | --
+Lime Wedge | 2x
+Spring Onion (chopped) | 2 sprigs
+Parsley (roughly chopped) | 5 sprigs
+Seasame Seeds | pinch
+Cashew Nuts | handful
 
 ---
 
@@ -51,34 +57,36 @@ Juice from Lime Half | 1x
 
 ### **Preparation**
 
-1. Prep the sauce by adding all the sauce ingredients together, mashing the peanut butter so that it is evenly distributed and set aside.
+1. Toast the cashews and crush with a pestle and mortar, prep all other garnishes and set aside for serivce.
 
-2. Whisk both eggs together with 2 generous pinches of salt and set aside.
+2. Prep the sauce by adding all the sauce ingredients together, mashing the peanut butter so that it is evenly distributed and set aside.
 
-3. Mince the onion and set aside.
+3. Whisk both eggs together with 2 generous pinches of salt and set aside.
 
-4. Submerge rice noodles in boiling water for 8 minutes until tender and drain.
+4. Mince the onion and set aside.
+
+5. Submerge rice noodles in boiling water for 8 minutes until tender and drain.
 
 ### **Cooking**
 
-5. Thinly slice chicken and shock cook over high heat in **vegetable oil**, set aside once browned.
+6. Thinly slice chicken and flash over high heat in **vegetable oil**, set aside once browned.
 
-6. Add toasted seasame oil, minced onion, and broccoli over high heat. shortly after, add the sliced pepper. 
+7. Add a splash more vegetable oil, the toasted seasame oil, minced onion, and broccoli over high heat. shortly after, add the sliced pepper. 
 
-7. Out of the ingredients, create a well in the pan and add the eggs, and moderately scramble them with the ingredients.
+8. Out of the ingredients, create a well in the middle of the pan and add the eggs, moderately scramble them with the ingredients.
 
-8. **Add the chicken** and the drained noodles with the rest and flip for 4 minutes, maintaining high heat.
+9. **Add the chicken** and the drained noodles with the rest and flip for 4 minutes, maintaining high heat.
 
-9. Add the sauce, and cook for 1 minute, or until the dish doesn't smell as fishy.
+10. Add the sauce, and cook low heat for 1 minute, or until the dish doesn't smell fishy.
 
 ### **Service**
 
-10. Serve with the lime wedge, spring onions, seasame seeds, and parsley.
+11. Serve with the all the prepared garnishes.
 
 ---
 
 ## Notes
 
-1. Adding boiling water in step 1. helps the peanut butter mix.
+- Adding boiling water in step 2. helps the peanut butter mix.
 
-2. Around step 9. in methodology, taste and season.
+- Around step 10. in methodology, taste and season.
