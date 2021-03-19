@@ -1,5 +1,7 @@
 # Daisy Lunches
 
+---
+
 ## Mushed Broccoli and Sausage
 
 ### **At A Glance**
@@ -29,3 +31,5 @@ Linda Mccartney Veggie Sausages | 3x
 3. Once broccoli is cooked, drain and add spread and both cheeses to the pot. Mash contents with a spatula, and season with salt, pepper, and garlic powder.
 
 4. Serve generously with sriracha sauce.
+
+---

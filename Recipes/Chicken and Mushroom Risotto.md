@@ -1,5 +1,7 @@
 # Chicken and Mushroom Risotto
 
+---
+
 ## At A Glance
 
 Quick | Look
@@ -7,6 +9,8 @@ Quick | Look
 Serves | 2
 Time | 65 mins
 Calories | 600kcal
+
+---
 
 ## What You'll Need
 
@@ -24,6 +28,8 @@ Peas | 200g
 Parmesan | 25g
 Flat-Leaf Parsley | 1/4 Bunch
 Wild Rocket | 30g
+
+---
 
 ## Method
 
