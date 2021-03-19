@@ -10,7 +10,7 @@ Quick | Look
 -- | --
 Serves | 1
 Time | 20 mins
-Calories | 450kcal
+Calories | 450kcal/serving
 
 ### **What You'll Need**
 
