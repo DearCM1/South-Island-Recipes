@@ -47,6 +47,8 @@ Wild Rocket | 30g
 
 7. Take pot off heat and stir in the parmesan and the rest of the greens. Leave to rest for 5 minutes.
 
+---
+
 ## Notes
 
 * Make sure to season and taste frequently, risotto typically requires a lot of salt before the flavours come through.
