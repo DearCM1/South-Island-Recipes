@@ -20,16 +20,18 @@ Ingredients | Quantity
 -- | --
 Rice Noodles | 120g
 Small Brown Onion | x1
-Garlic Cloves (Chopped) | x4
+Garlic Cloves (chopped) | x4
 Ginger | 1 tablespoon
 Eggs | x2
 Chicken | 400g
 Toasted Seasame Oil | 2 teaspoon
+Broccoli Head (cut to florets) | 0.5x
 Vegetable Oil | 1 tablespoon
-Green Chilli (Diced, De-seeded) | 0.5x
+Red Pepper (sliced) | 1x
+Green Chilli (diced, de-seeded) | 0.5x
 Lime Wedge | 2x
-Spring Onion (Chopped) | 2 sprigs
-Parsley (Roughly Chopepd) | 5 sprigs
+Spring Onion (chopped) | 2 sprigs
+Parsley (roughly chopepd) | 5 sprigs
 Seasame Seeds | pinch
 
 ### **Sauce**
@@ -55,7 +57,7 @@ Dark Soy Sauce | 1 tablespoon
 
 5. Thinly slice chicken and shock cook over high heat in **vegetable oil**, set aside once browned.
 
-6. Add toasted seasame oil and the minced onion, garlic, and ginger over high heat until softened.
+6. Add toasted seasame oil, minced onion, garlic, ginger, and broccoli over high heat. shortly after, add the sliced pepper. 
 
 7. Out of the ingredients, create a well in the pan and add the eggs, and moderately scramble them with the ingredients.
 
