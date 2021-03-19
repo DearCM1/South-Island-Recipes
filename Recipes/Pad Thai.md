@@ -23,7 +23,7 @@ Small Brown Onion | x1
 Garlic Cloves (Chopped) | x4
 Ginger | 1 tablespoon
 Eggs | x2
-Chicken | 240g
+Chicken | 400g
 Toasted Seasame Oil | 2 teaspoon
 Vegetable Oil | 1 tablespoon
 Green Chilli (Diced, De-seeded) | 0.5x
