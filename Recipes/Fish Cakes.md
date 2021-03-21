@@ -7,8 +7,8 @@
 Quick | Look
 -- | --
 Serves | 2
-Time |
-Calories |
+Time | 1hr 20mins
+Calories | 360kcal
 
 ---
 
@@ -35,7 +35,7 @@ Vegetable Oil for Shallow Frying | *
 
 ## Method
 
-### **Preparation**
+### **Filling Preparation (20 mins)**
 
 1. Skin the fish and lay in a frying pan with the bay leaves, 150ml of milk, and 150ml of water.
 
@@ -51,20 +51,30 @@ Vegetable Oil for Shallow Frying | *
 
 7. Take the potatoes off the heat and mix 1 heaped tablespoon of tartare sauce, lemon zest, parsley, and chives. Season to taste.
 
-8. Drain, dry, and season fish. Flake into chunks. Turn the chunks, 
+8. Drain, dry, and season fish. Flake into chunks. Carefully turn the chunks with the potatoes.
 
-9. 
+### **Cake Preparation (40 mins)**
 
-### **Cooking**
+9. Beat the egg in a bowl. Separately, place the breadcumbs in a bowl.
 
-2. method
+10. Split the filling mix into four and form 1 inch deep cakes.
+
+11. Sit the cakes in the egg bowl, coating the top with an egg brush.
+
+12. Sit the cakes in the breadcrumb bowl, coating the top and sides with breadcumbs.
+
+13. Cover and chill the cakes for 30 minutes. (or up to a day ahead).
+
+### **Cooking (20 mins)**
+
+14. In a pan, heat a shallow pool of vegetable oil to 190°C. Fry the fish cakes for 5 minutes either side, or until golden.
 
 ### **Service**
 
-3. method
+15. Serve with a wedge of lemon.
 
 ---
 
 ## Notes
 
-- note
+- Recommended to have with boiled greens.
