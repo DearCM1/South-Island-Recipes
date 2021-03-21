@@ -8,7 +8,7 @@ Quick | Look
 -- | --
 Serves | 2
 Time | 1hr 20mins
-Calories | 360kcal
+Calories | 600kcal
 
 ---
 
