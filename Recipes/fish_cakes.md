@@ -47,7 +47,7 @@ Vegetable Oil for Shallow Frying | *
 
 3. At 4 minutes, take pan off heat and leave on the cover for 10 minutes, so that the fish cooks gently.
 
-4. Peel and chop the potatoes into 2cm chunks.Whilst the fish cook, boil the potatoes in salted water for 10 minutes until tender, but not broken.
+4. Peel and chop the potatoes into 2cm chunks. Whilst the fish cook, boil the potatoes in salted water for 10 minutes until tender, but not broken.
 
 5. Remove fish from pan and allow to cool. Drain the potaotes in a colander, allow to draing.
 
