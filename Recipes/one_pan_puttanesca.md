@@ -2,6 +2,8 @@
 
 ---
 
+![alt text](https://drive.google.com/uc?export=view&id=1bLs-4xRHff_riv7P20UczfdKDHyCdatK)
+
 ## At A Glance
 
 Quick | Look
@@ -18,14 +20,14 @@ Calories | 540kcal
 
 Ingredients | Quantity
 -- | --
-Red Chilli (diced) | x0.5
+Red Chilli (diced) | x1
 Tinned Tomatoes | 400g
-Vegetable Stock | 450ml
+Vegetable Stock | 430ml
 Bucantini, Lingiunie, or Spaghetti | 175g
+Garlic Cloves (minced) | x6
 Black Olives (pitted, halved) | handful
 Nonpareilles Capers | 2.5 tablespoons
 Tinned Tuna (drained) | 250g
-Garlic Cloves (minced) | x6
 Basil Leaves | handful
 
 ---
@@ -36,7 +38,7 @@ Basil Leaves | handful
 
 1. Add salt, diced chilli, tinned tomatoes, and vegetable stock into a pot on medium heat and bring to the boil.
 
-2. Once bubbling, add the pasta to the pot, ensuring the pasta is submerged. Cook the pasta for 15 minutes from boiling, stiring regularly, until the pasta is al dente and the sauce has thickened / reduced.
+2. Once bubbling, add the pasta to the pot, ensuring the pasta is submerged. Cook the pasta for the time instructed on the pack, stiring regularly, until the pasta is al dente and the sauce has thickened / reduced.
 
 3. Add the garlic 1 minute before taking off the heat (after 14 minutes of boiling the pasta).
 
