@@ -1,2 +1,9 @@
 # Notes
-Repo for notes and comments on things such as reading or cooking.
+
+---
+
+## Contents
+
+1. [Reading](/reading)
+2. [Recipes](/recipes)
+3. [Research](/research)
