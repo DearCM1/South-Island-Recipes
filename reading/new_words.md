@@ -94,3 +94,7 @@ In econonmics, a monopsony is a market structure in which a single by substancia
 
 Something that is kept secret, typically examples are when an action is of importance, illicit in nature, or socially frowned.
 >*"The UN condemed the United States following the exposure of their clandestine torture interrogation methods, violating human rights."*
+
+### **Reductio ad Absurdum**
+
+In logic, reductio ad absurdum is the form of argument that attempts to establish a claim by showing that the opposite scenario would lead to absurdity or contradiction.
