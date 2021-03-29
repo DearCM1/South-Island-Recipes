@@ -10,9 +10,9 @@
 
 Quick | Look
 -- | --
-Serves |
-Time |
-Calories |
+Serves | x
+Time | x hrs x mins
+Calories | x kcal/serving
 
 ---
 

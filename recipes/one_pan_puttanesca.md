@@ -12,7 +12,7 @@ Quick | Look
 -- | --
 Serves | 2
 Time | 40 mins
-Calories | 540kcal
+Calories | 540kcal/serving
 
 ---
 

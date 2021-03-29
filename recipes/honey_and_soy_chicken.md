@@ -12,7 +12,7 @@ Quick | Look
 -- | --
 Serves | 2
 Time | 2 hrs 45 mins
-Calories | Xkcal
+Calories | X kcal
 
 ---
 
