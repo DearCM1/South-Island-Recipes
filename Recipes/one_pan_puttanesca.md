@@ -55,4 +55,4 @@ Basil Leaves | handful
 
 ## Notes
 
-- none.
+- Add some grated parmesan cheese and/or extra virgin olive oil for garnish.
