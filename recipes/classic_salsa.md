@@ -2,7 +2,7 @@
 
 ---
 
-![image](https://drive.google.com/uc?export=view&id=16al1jxeU2C_RHvADBITDFoYi2ChI_iwE)
+![image](https://drive.google.com/uc?export=view&id=1qDkKVA_IWu10OeIk8yrnC-elByMisv7A)
 
 ---
 
@@ -10,9 +10,9 @@
 
 Quick | Look
 -- | --
-Serves | x
-Time | x hrs x mins
-Calories | x kcal/serving
+Serves | 4
+Time | 25 mins
+Calories | 15 kcal/serving
 
 ---
 
@@ -22,32 +22,25 @@ Calories | x kcal/serving
 
 Ingredients | Quantity
 -- | --
-|
-
-### **Sauce**
-
-Ingredients | Quantity
--- | --
-|
+Salad Tomatoes | 3x
+Red Onion | 0.5x
+Brown Onion | 0.5x
+Parsley | 30g
+Garlic Cloves | 1x
+Lime | 0.5x
 
 ---
 
 ## Method
 
-### **Preparation**
+1. Finely dice the tomatoes, onions, parsley, and garlic, mixing everything evenly together in a bowl.
 
-1. method
+2. Juice the lime half into a bowl and season to taste.
 
-### **Cooking**
-
-2. method
-
-### **Service**
-
-3. method
+3. Refrigerate for minimum 30 mins to let the flavours sit.
 
 ---
 
 ## Notes
 
-- note
+- A sharp knife is highly reccommended here.
