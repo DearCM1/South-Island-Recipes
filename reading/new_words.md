@@ -98,3 +98,15 @@ Something that is kept secret, typically examples are when an action is of impor
 ### **Reductio ad Absurdum**
 
 In logic, reductio ad absurdum is the form of argument that attempts to establish a claim by showing that the opposite scenario would lead to absurdity or contradiction.
+
+### **Duplicitous**
+
+Act of being deceitful.
+
+Direct synonymous to "doubleness", as to be a *double* personality. The double personality refers do someone being dishonest and acting in bad faith.
+
+### **Conflate**
+
+Combining two or more sets of information or ideas into one.
+
+> *"The urban crisis conflates a number of different economic, political, and social issues."*
