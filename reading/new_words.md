@@ -110,3 +110,9 @@ Direct synonymous to "doubleness", as to be a *double* personality. The double p
 Combining two or more sets of information or ideas into one.
 
 > *"The urban crisis conflates a number of different economic, political, and social issues."*
+
+### **Sycophancy**
+
+The practice of insincerely flattering others used to gain favour/ an advantage.
+
+> *"He was a known sycophant, laughing at the board members' jokes and always agreeing with them, hoping one day to be welcomed onto the board."*
