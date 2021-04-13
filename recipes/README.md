@@ -22,3 +22,9 @@
 ## Sides
 
 - [Classic Salsa](classic_salsa.md)
+
+---
+
+## Deserts
+
+- [Brownies](brownies.md)
