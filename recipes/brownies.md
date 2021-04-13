@@ -11,7 +11,7 @@
 Quick | Look
 -- | --
 Serves | 9
-Time | 50 mins
+Time | 1 hr 15 mins 
 Calories | 300 kcal/serving
 
 ---
@@ -46,11 +46,11 @@ Milk Chocolate | 110g
 
 6. Mix in the **milk chocolate** (broken into pieces) until evenly distributed.
 
-7. Pour mix into a baking tin lined with non-stick baking paper.
+7. Pour mix into a 20x20cm baking tin lined with non-stick baking paper.
 
 ### **Cooking**
 
-8. Cook in oven for 35 minutes, not opening the door until the time is up.
+8. Cook in oven for 55 minutes, rotating the tin 180° halfway through to ensure even heat distribution.
 
 9. After the elapsed time, poke the centre of the brownie with a probe to see if any mix sticks to the probe. If so, place back in the oven and retest.
 
