@@ -116,3 +116,11 @@ Combining two or more sets of information or ideas into one.
 The practice of insincerely flattering others used to gain favour/ an advantage.
 
 > *"He was a known sycophant, laughing at the board members' jokes and always agreeing with them, hoping one day to be welcomed onto the board."*
+
+### **Ancillary**
+
+Providing primary support or help.
+
+> *"The defendant carrying a weapon was ancillary proof of their charges."*
+
+> *"Event marshalls are ancillary staff ensuring that everything on the day runs smoothly."*
