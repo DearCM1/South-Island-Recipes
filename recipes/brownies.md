@@ -21,10 +21,10 @@ Calories | 300 kcal/serving
 Ingredients | Quantity
 -- | --
 Baking Butter (Stork) | 185g
-Dark Chocolate | 185g
+Dark Chocolate | 200g
 Plain Flour | 85g
 Cocoa Powder | 40g
-Milk Chocolate | 185g
+Milk Chocolate | 110g
 Large Eggs | 3x
 Golden Caster Sugar | 275g
 
@@ -52,7 +52,7 @@ Golden Caster Sugar | 275g
 
 8. Cook in oven for 35 minutes, not opening the door until the time is up.
 
-9. After the elapsed time, poke the centre of the brownie with a probe to see if any mix sticks to the probe. If so, place back in the oven an retest.
+9. After the elapsed time, poke the centre of the brownie with a probe to see if any mix sticks to the probe. If so, place back in the oven and retest.
 
 10. Cool in the tin for 2 hours then cover the tin with foil and leave over night, cutting the brownies into 9 equal squares the next day.
 
