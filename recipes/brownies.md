@@ -22,11 +22,11 @@ Ingredients | Quantity
 -- | --
 Baking Butter (Stork) | 185g
 Dark Chocolate | 200g
+Large Eggs | 3x
+Golden Caster Sugar | 275g
 Plain Flour | 85g
 Cocoa Powder | 40g
 Milk Chocolate | 110g
-Large Eggs | 3x
-Golden Caster Sugar | 275g
 
 ---
 
