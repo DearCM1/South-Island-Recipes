@@ -61,7 +61,7 @@ Cashew Nuts | handful
 
 ### **Preparation**
 
-1. Toast the cashews and crush with a pestle and mortar, prep all other garnishes and set aside for serivce.
+1. Toast the cashews and crush with a pestle and mortar, prep all other garnishes and set aside for service.
 
 2. Prep the sauce by adding all the sauce ingredients together, mashing the peanut butter so that it is evenly distributed and set aside.
 
@@ -75,7 +75,7 @@ Cashew Nuts | handful
 
 6. Thinly slice chicken and flash over high heat in **vegetable oil**, set aside once browned.
 
-7. Add a splash more vegetable oil, the toasted seasame oil, minced onion, and broccoli over high heat. shortly after, add the sliced pepper. 
+7. Add a splash more vegetable oil, the toasted sesame oil, minced onion, and broccoli over high heat. shortly after, add the sliced pepper. 
 
 8. Out of the ingredients, create a well in the middle of the pan and add the eggs, moderately scramble them with the ingredients.
 
