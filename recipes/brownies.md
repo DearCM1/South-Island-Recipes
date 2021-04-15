@@ -64,4 +64,4 @@ Milk Chocolate | 110g
 
 ## Notes
 
-- None.
+- Step 2: if you have no kitchen aid, hand-whisk until the eggs and sugar double in size and the whisk leaves a trail when dripping.
