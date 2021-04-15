@@ -12,6 +12,7 @@
 - [Pad Thai](pad_thai.md)
 - [Honey and Soy Chicken](honey_and_soy_chicken.md)
 - [Lentil Dahl](lentil_dahl.md)
+- [Chicken Ramen](chicken_ramen.md)
 
 ## European
 
