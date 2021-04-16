@@ -2,7 +2,7 @@
 
 ---
 
-![image](https://drive.google.com/uc?export=view&id=16al1jxeU2C_RHvADBITDFoYi2ChI_iwE)
+![image](https://drive.google.com/uc?export=view&id=1INPYyxiY_xpEdarA9Nb-fykqQ85C6oWv)
 
 ---
 
@@ -30,7 +30,7 @@ Dark Soy Sauce | 3 tablespoons
 Rice Wine (Mirin) | 2 tablespoons
 Chicken Stock | 1L
 Dried Shitake Mushrooms | x2
-Chestnut Mushrooms (quartered) | [ENTER VALUE]
+Chestnut Mushrooms (quartered) | 100g
 Medium Eggs | x2
 Spring Onions (sliced) | handful
 Parsley (chopped) | handful
