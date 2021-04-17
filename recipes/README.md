@@ -13,6 +13,7 @@
 - [Honey and Soy Chicken](honey_and_soy_chicken.md)
 - [Lentil Dahl](lentil_dahl.md)
 - [Chicken Ramen](chicken_ramen.md)
+- [Cardamom Butter Chicken Curry](cardamom_butter_chicken.md)
 
 ## European
 
