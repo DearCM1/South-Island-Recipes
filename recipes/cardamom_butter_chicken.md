@@ -12,7 +12,7 @@ Quick | Look
 -- | --
 Serves | 2
 Time | 1 hr
-Calories | x kcal/serving
+Calories | 430 kcal/serving
 
 ---
 
