@@ -38,7 +38,7 @@ Milk Chocolate | 110g
 
 2. Break up the **dark chocolate** into cubes and add to a bowl with the **butter**. Melt together in a microwave at 30 second invervals then leave to cool to room temperature.
 
-3. Whisk the **eggs** and **sugar** in a kitchen aid for 5 minutes on the highest power, until the mix leaves a trail on the surface when dropped from the whisk.
+3. Whisk the **eggs** and **sugar** in a kitchen aid (**see notes**) for 5 minutes on the highest power, until the mix leaves a trail on the surface when dropped from the whisk.
 
 4. Combine the whisked mix with the room temperature chocolate/butter mix, adding a **pinch of salt**. Gently fold the two together until homogeneous, so the air remains in.
 
@@ -50,9 +50,9 @@ Milk Chocolate | 110g
 
 ### **Cooking**
 
-8. Cook in oven for 55 minutes, rotating the tin 180° halfway through to ensure even heat distribution.
+8. Cook in oven for 50 minutes, rotating the tin 180° halfway through to ensure even heat distribution.
 
-9. After the elapsed time, poke the centre of the brownie with a probe to see if any mix sticks to the probe. If so, place back in the oven and retest.
+9. After the elapsed time, poke the centre of the brownie with a probe to see if any mix sticks to the probe (**see notes**). If so, place back in the oven and retest.
 
 10. Cool in the tin for 2 hours then cover the tin with foil and leave over night, cutting the brownies into 9 equal squares the next day.
 
@@ -64,4 +64,6 @@ Milk Chocolate | 110g
 
 ## Notes
 
-- Step 2: if you have no kitchen aid, hand-whisk until the eggs and sugar double in size and the whisk leaves a trail when dripping.
+- Step 3: If you don't have a kitchen aid, hand-whisk until the eggs and sugar double in size and the whisk leaves a trail when dripping.
+
+- Step 9: If you have a thermometer, aim to have the middle of the brownie between the range of 80-90°C
