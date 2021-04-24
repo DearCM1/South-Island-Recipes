@@ -124,3 +124,9 @@ Providing primary support or help.
 > *"The defendant carrying a weapon was ancillary proof of their charges."*
 
 > *"Event marshalls are ancillary staff ensuring that everything on the day runs smoothly."*
+
+### **Derisively**
+
+In a manner expressing contempt or ridicule.
+
+> *"He answered her question derisively."*
