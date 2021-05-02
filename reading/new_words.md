@@ -130,3 +130,9 @@ Providing primary support or help.
 In a manner expressing contempt or ridicule.
 
 > *"He answered her question derisively."*
+
+### **Deleterious**
+
+Causing harm or damage.
+
+> *"The increase in global tourism was deleterious to evironmental health."*
