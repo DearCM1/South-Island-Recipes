@@ -136,3 +136,11 @@ In a manner expressing contempt or ridicule.
 Causing harm or damage.
 
 > *"The increase in global tourism was deleterious to evironmental health."*
+
+### **Cacophony**
+
+A harsh, dischordant mixture of sounds.
+
+> *"The intruder system set off a cacophony of alarm bells."*
+
+> *"In response to the new legislate, protests amassed with a cacophony of chants and anger. "*
