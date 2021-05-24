@@ -144,3 +144,9 @@ A harsh, dischordant mixture of sounds.
 > *"The intruder system set off a cacophony of alarm bells."*
 
 > *"In response to the new legislate, protests amassed with a cacophony of chants and anger. "*
+
+### **Salient**
+
+The most important part.
+
+> *"Immigration policy and membership fees remained the sailent talking points of the Brexit campaign."*
