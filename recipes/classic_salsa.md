@@ -1,4 +1,4 @@
-# Recipe Name
+# Classic Salsa
 
 ---
 
@@ -25,7 +25,7 @@ Ingredients | Quantity
 Salad Tomatoes | 3x
 Red Onion | 0.5x
 Brown Onion | 0.5x
-Parsley | 30g
+Coriander | 30g
 Garlic Cloves | 1x
 Lime | 0.5x
 
@@ -33,7 +33,7 @@ Lime | 0.5x
 
 ## Method
 
-1. Finely dice the tomatoes, onions, parsley, and garlic, mixing everything evenly together in a bowl.
+1. Finely dice the tomatoes, onions, coriander, and garlic, mixing everything evenly together in a bowl.
 
 2. Juice the lime half into a bowl and season to taste.
 
