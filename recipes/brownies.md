@@ -22,6 +22,7 @@ Ingredients | Quantity
 -- | --
 Baking Butter (Stork) | 185g
 Dark Chocolate | 200g
+Fine Sea Salt | 1 teaspoon
 Large Eggs | 3x
 Golden Caster Sugar | 275g
 Plain Flour | 85g
@@ -36,7 +37,7 @@ Milk Chocolate | 110g
 
 1. Preheat fan oven to 160°C.
 
-2. Break up the **dark chocolate** into cubes and add to a bowl with the **butter**. Melt together in a microwave at 30 second invervals then leave to cool to room temperature.
+2. Break up the **dark chocolate** into cubes and add to a bowl with the **butter**. Melt in a microwave at 30 second invervals. Once melted, mix together with a level teaspoon of **fine sea salt** and leave aside to cool.
 
 3. Whisk the **eggs** and **sugar** in a kitchen aid (**see notes**) for 5 minutes on the highest power, until the mix leaves a trail on the surface when dropped from the whisk.
 
