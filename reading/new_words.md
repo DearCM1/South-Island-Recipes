@@ -150,3 +150,9 @@ A harsh, dischordant mixture of sounds.
 The most important part.
 
 > *"Immigration policy and membership fees remained the sailent talking points of the Brexit campaign."*
+
+### **Alacrity**
+
+A prompt, cheerful response.
+
+> *"They accepted her into the group with alacrity."*
