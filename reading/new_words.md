@@ -62,7 +62,7 @@ Extraordinary in a bad way.
 
 Loud and clear.
 
-### **Anathema  "ah-na-thama**
+### **Anathema  "ah-na-thama"**
 
 Someone/thing that is hated to one or a group.
 >*"Jeremy Corbyn is anathema to most Tories."*
