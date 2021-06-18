@@ -156,3 +156,23 @@ The most important part.
 A prompt, cheerful response.
 
 > *"They accepted her into the group with alacrity."*
+
+### **Congruence**
+
+In agreement / harmony with something.
+
+> *"The board was congruent with the CEO's proposed company directives."*
+
+> *"Being wrapped up in a strong ego results in your ideal self being incongruent with the image you portray."*
+
+### **Reify**
+
+Make something abstract more concrete/real.
+
+> *"[NEEDS EXAMPLE]"*
+
+### **Litany**
+
+A tedious recital or repetitive series.
+
+> *"The prosecution begun its litany of counts against the defendant."*
