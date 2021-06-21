@@ -176,3 +176,9 @@ Make something abstract more concrete/real.
 A tedious recital or repetitive series.
 
 > *"The prosecution begun its litany of counts against the defendant."*
+
+### **Verbatim**
+
+In exactly the same words as were used originally.
+
+> *"subjects were instructed to recall the passage verbatim."*
