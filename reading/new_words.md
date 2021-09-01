@@ -182,3 +182,15 @@ A tedious recital or repetitive series.
 In exactly the same words as were used originally.
 
 > *"subjects were instructed to recall the passage verbatim."*
+
+### **Lionize**
+
+To recieve a lot of public attention.
+
+> *"Lionized by his talk show apperance, he decided to capitalise on his fame."*
+
+### **Fopar**
+
+An embarrassing social blunder or indiscretion.
+
+> *"She was agonisingly reminded of her 2016 wardrobe fopar."*
