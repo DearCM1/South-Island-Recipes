@@ -194,3 +194,9 @@ To recieve a lot of public attention.
 An embarrassing social blunder or indiscretion.
 
 > *"She was agonisingly reminded of her 2016 wardrobe fopar."*
+
+### **Antithesis**
+
+A person or object that is the opposite of someone or something else.
+
+> *"Love is the opposite of selfishness."*
