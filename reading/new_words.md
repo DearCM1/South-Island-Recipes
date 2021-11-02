@@ -200,3 +200,9 @@ An embarrassing social blunder or indiscretion.
 A person or object that is the opposite of someone or something else.
 
 > *"Love is the opposite of selfishness."*
+
+### **Admonition**
+
+A friendly, yet authorative advice, warning, or reproof
+
+> *"Marcus Aurelius was consistent in admonitions of fame and anger towards himself."*
