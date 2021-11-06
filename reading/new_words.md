@@ -199,10 +199,22 @@ An embarrassing social blunder or indiscretion.
 
 A person or object that is the opposite of someone or something else.
 
-> *"Love is the opposite of selfishness."*
+> *"Love is the antithesis of selfishness."*
 
 ### **Admonition**
 
-A friendly, yet authorative advice, warning, or reproof
+A friendly, yet authorative advice, warning, or reproof.
 
 > *"Marcus Aurelius was consistent in admonitions of fame and anger towards himself."*
+
+### **Aphorism**
+
+A pithy observation which contains a general truth.
+
+> *"Such philosophers were widely regarded for stating aphorisms, profound for their time."*
+
+### **Pithy**
+
+A breif, forceful, and meaningful expression.
+
+> *"Her pithy comment forced them to conisder a new perspective."*
