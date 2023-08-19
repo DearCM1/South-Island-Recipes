@@ -4,29 +4,29 @@
 
 ## Fish
 
-- [Fish Cakes](fish_cakes.md)
-- [One Pan Puttanesca](one_pan_puttanesca.md)
+- [Fish Cakes](files/fish_cakes.md)
+- [One Pan Puttanesca](files/one_pan_puttanesca.md)
 
 ## Asian
 
-- [Pad Thai](pad_thai.md)
-- [Honey and Soy Chicken](honey_and_soy_chicken.md)
-- [Lentil Dahl](lentil_dahl.md)
-- [Chicken Ramen](chicken_ramen.md)
-- [Cardamom Butter Chicken Curry](cardamom_butter_chicken.md)
+- [Pad Thai](files/pad_thai.md)
+- [Honey and Soy Chicken](files/honey_and_soy_chicken.md)
+- [Lentil Dahl](files/lentil_dahl.md)
+- [Chicken Ramen](files/chicken_ramen.md)
+- [Cardamom Butter Chicken Curry](files/cardamom_butter_chicken.md)
 
 ## European
 
-- [Chicken and Mushroom Risotto](chicken_and_mushroom_risotto.md)
+- [Chicken and Mushroom Risotto](files/chicken_and_mushroom_risotto.md)
 
 ## Salads
 
-- [Green Lentil Salad](green_lentil_salad.md)
+- [Green Lentil Salad](files/green_lentil_salad.md)
 
 ## Sides
 
-- [Classic Salsa](classic_salsa.md)
+- [Classic Salsa](files/classic_salsa.md)
 
 ## Deserts
 
-- [Brownies](brownies.md)
+- [Brownies](files/brownies.md)
