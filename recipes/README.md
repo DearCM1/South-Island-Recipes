@@ -19,13 +19,13 @@
 
 - [Chicken and Mushroom Risotto](chicken_and_mushroom_risotto.md)
 
----
+## Salads
+
+- [Green Lentil Salad](green_lentil_salad.md)
 
 ## Sides
 
 - [Classic Salsa](classic_salsa.md)
-
----
 
 ## Deserts
 
