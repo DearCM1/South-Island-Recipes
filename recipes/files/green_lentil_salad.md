@@ -70,7 +70,7 @@ Mint | just a pinch
 
 ### **Salad Preparation**
 
-4. Cook the **quinoa** according to instructions. Once done, leave aside to cool.
+4. Rinse and cook the **quinoa** according to instructions. Once done, leave aside to cool.
 
 5. Dressing: Whisk together the **red wine vinegar**, **Dijon mustard**, **olive oil**, juice of one **lemon**, and some salt and pepper.
 
