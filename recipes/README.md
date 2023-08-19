@@ -19,7 +19,7 @@
 
 ## Salads
 
-- [Green Lentil Salad](files/green_lentil_salad.md)
+- [Quinoa and Green Lentil Salad](files/green_lentil_salad.md)
 
 ## Sides
 
