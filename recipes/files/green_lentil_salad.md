@@ -8,7 +8,7 @@
 -- | --
 Serves | 4
 Time | 1 hrs
-Calories | x kcal/serving
+Calories | 598 kcal/serving
 
 ## What You'll Need
 
