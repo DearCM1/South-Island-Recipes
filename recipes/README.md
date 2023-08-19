@@ -1,7 +1,5 @@
 # Recipes
 
----
-
 ## Fish
 
 - [Fish Cakes](files/fish_cakes.md)
