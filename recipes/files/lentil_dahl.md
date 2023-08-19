@@ -4,7 +4,7 @@
 
 [//]: # (when adding google drive link, just replace the aset id, don't change anything else about the above link otherwise the image will not display)
 
-Lentil Dahl pictured with [Classic Salsa](https://github.com/DearCM1/Notes/blob/master/recipes/classic_salsa.md).
+Lentil Dahl pictured with [Classic Salsa](https://github.com/DearCM1/Notes/blob/master/recipes/files/classic_salsa.md).
 
 ## At A Glance
 
