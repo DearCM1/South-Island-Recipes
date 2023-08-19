@@ -1,10 +1,8 @@
 # Brownies
 
----
-
 ![image](https://drive.google.com/uc?export=view&id=1ZMGbxDygVUe7C-VPonhvnx2Rjds4PsC5)
 
----
+[//]: # (when adding google drive link, just replace the aset id, don't change anything else about the above link otherwise the image will not display)
 
 ## At A Glance
 
@@ -13,8 +11,6 @@ Quick | Look
 Serves | 9
 Time | 1 hr 15 mins 
 Calories | 300 kcal/serving
-
----
 
 ## What You'll Need
 
@@ -28,8 +24,6 @@ Golden Caster Sugar | 275g
 Plain Flour | 85g
 Cocoa Powder | 40g
 Milk Chocolate | 110g
-
----
 
 ## Method
 
@@ -61,10 +55,8 @@ Milk Chocolate | 110g
 
 11. Serve with a dusting of icing sugar and a scoop of vanilla ice cream.
 
----
-
 ## Notes
 
-- Step 3: If you don't have a kitchen aid, hand-whisk until the eggs and sugar double in size and the whisk leaves a trail when dripping.
+> Step 3: If you don't have a kitchen aid, hand-whisk until the eggs and sugar double in size and the whisk leaves a trail when dripping.
 
-- Step 9: If you have a thermometer, aim to have the middle of the brownie between the range of 80-90°C
+> Step 9: If you have a thermometer, aim to have the middle of the brownie between the range of 80-90°C

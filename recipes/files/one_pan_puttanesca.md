@@ -1,20 +1,16 @@
-# One Pan Puttanesca
-
----
+# One Pan Puttanesca 🫒
 
 ![image](https://drive.google.com/uc?export=view&id=1-wcLtlWe4UdPgAIdsxtDgZ-F3lE_v5l-)
 
----
+[//]: # (when adding google drive link, just replace the aset id, don't change anything else about the above link otherwise the image will not display)
 
 ## At A Glance
 
-Quick | Look
+🫒 | -
 -- | --
 Serves | 2
 Time | 40 mins
 Calories | 540kcal/serving
-
----
 
 ## What You'll Need
 
@@ -33,8 +29,6 @@ Nonpareilles Capers | 1 tablespoon
 Tinned Tuna (drained) | 250g
 Basil Leaves | handful
 
----
-
 ## Method
 
 ### **Cooking**
@@ -51,8 +45,6 @@ Basil Leaves | handful
 
 5. Garnish with basil and serve.
 
----
-
 ## Notes
 
-- Add some grated parmesan cheese and/or extra virgin olive oil for garnish.
+> Add some grated parmesan cheese and/or extra virgin olive oil for garnish.

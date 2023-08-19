@@ -1,20 +1,16 @@
-# Chicken and Mushroom Risotto
+# Chicken and Mushroom Risotto 🐥
 
----
+![image](https://drive.google.com/uc?export=view&id=1TTqqLcTi78Juntj3kqNQUjgtYPNmhLLK)
 
-![image](https://drive.google.com/uc?export=view&id=16al1jxeU2C_RHvADBITDFoYi2ChI_iwE)
-
----
+[//]: # (when adding google drive link, just replace the aset id, don't change anything else about the above link otherwise the image will not display)
 
 ## At A Glance
 
-Quick | Look
+🐥 | -
 -- | --
 Serves | 2
 Time | 65 mins
 Calories | 600kcal/serving
-
----
 
 ## What You'll Need
 
@@ -33,8 +29,6 @@ Parmesan | 25g
 Flat-Leaf Parsley | 1/4 Bunch
 Wild Rocket | 30g
 
----
-
 ## Method
 
 1. Sweat the onions in a pan of melted butter until soft.
@@ -51,8 +45,7 @@ Wild Rocket | 30g
 
 7. Take pot off heat and stir in the parmesan and the rest of the greens. Leave to rest for 5 minutes.
 
----
 
 ## Notes
 
-* Make sure to season and taste frequently, risotto typically requires a lot of salt before the flavours come through.
+> Make sure to season and taste frequently, risotto typically requires a lot of salt before the flavours come through.

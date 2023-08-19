@@ -1,22 +1,18 @@
-# Lentil Dahl
-
----
+# Lentil Dahl 🥘
 
 ![image](https://drive.google.com/uc?export=view&id=1wgNpJ5Y8XfwfvIM_kVZ_EPLn6pPzpT_H)
 
-Lentil Dahl pictured with [Classic Salsa](https://github.com/DearCM1/Notes/blob/master/recipes/classic_salsa.md).
+[//]: # (when adding google drive link, just replace the aset id, don't change anything else about the above link otherwise the image will not display)
 
----
+Lentil Dahl pictured with [Classic Salsa](https://github.com/DearCM1/Notes/blob/master/recipes/classic_salsa.md).
 
 ## At A Glance
 
-Quick | Look
+🥘 | -
 -- | --
 Serves | 6
 Time | 1 hr
 Calories | 280 kcal/serving
-
----
 
 ## What You'll Need
 
@@ -48,8 +44,6 @@ Mustard Seeds | 2 teaspoon
 Garam Masala | 1 tablespoon
 Ground Tumeric | 1 tablespoon
 
----
-
 ## Method
 
 ### **Preparation**
@@ -74,8 +68,6 @@ Ground Tumeric | 1 tablespoon
 
 8. Once the consistency is correct, squeeze in fresh lemon juice and stir. Serve with rice, salsa, and a coriander garnish.
 
----
-
 ## Notes
 
-- If you're feeling lazy, replace the seed toasting stage with store bought pre-ground spices. If so, be slightly more liberal with the spice measurements.
+> If you're feeling lazy, replace the seed toasting stage with store bought pre-ground spices. If so, be slightly more liberal with the spice measurements.

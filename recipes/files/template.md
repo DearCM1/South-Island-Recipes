@@ -1,4 +1,4 @@
-# Recipe Name
+# Recipe Name 🥦
 
 ![image](https://drive.google.com/uc?export=view&id=1TTqqLcTi78Juntj3kqNQUjgtYPNmhLLK)
 
@@ -42,4 +42,4 @@ Ingredients | Quantity
 
 ## Notes
 
-- note
+> note

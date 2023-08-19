@@ -1,20 +1,16 @@
-# Chicken Ramen
-
----
+# Chicken Ramen 🍜
 
 ![image](https://drive.google.com/uc?export=view&id=1INPYyxiY_xpEdarA9Nb-fykqQ85C6oWv)
 
----
+[//]: # (when adding google drive link, just replace the aset id, don't change anything else about the above link otherwise the image will not display)
 
 ## At A Glance
 
-Quick | Look
+🍜 | -
 -- | --
 Serves | 2
 Time | 1 hr
 Calories | x kcal/serving
-
----
 
 ## What You'll Need
 
@@ -34,8 +30,6 @@ Chestnut Mushrooms (quartered) | 100g
 Medium Eggs | x2
 Spring Onions (sliced) | handful
 Parsley (chopped) | handful
-
----
 
 ## Method
 
@@ -84,10 +78,8 @@ Parsley (chopped) | handful
 
 15. Garnish with the parsley and spring onions with a splash of soy sauce.
 
----
-
 ## Notes
 
-- Preparation is key on this, make sure everything is prepped before attempting to cook as you'll be focusing on the cooking process once started.
+> Preparation is key on this, make sure everything is prepped before attempting to cook as you'll be focusing on the cooking process once started.
 
-- As soon as the thickest part of the chicken hits 73°C, remove from heat and rest.
+> As soon as the thickest part of the chicken hits 73°C, remove from heat and rest.

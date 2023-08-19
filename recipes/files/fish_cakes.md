@@ -1,20 +1,14 @@
-# Fish Cakes
-
----
+# Fish Cakes 🐟🍰
 
 ![image](https://drive.google.com/uc?export=view&id=1MYJMN1EtBnMU54iKJaurHjc5bivJKWfQ)
 
----
-
 ## At A Glance
 
-Quick | Look
+🐟🍰 | -
 -- | --
 Serves | 2
 Time | 1hr 20mins
 Calories | 600kcal/serving
-
----
 
 ## What You'll Need
 
@@ -34,8 +28,6 @@ Egg | 1x
 Plain Flour for Shaping | *
 White Breadcumbs | 80g
 Vegetable Oil for Shallow Frying | *
-
----
 
 ## Method
 
@@ -77,8 +69,6 @@ Vegetable Oil for Shallow Frying | *
 
 15. Serve with a wedge of lemon.
 
----
-
 ## Notes
 
-- Recommended to have with boiled greens.
+> Recommended to have with boiled greens.

@@ -40,4 +40,4 @@ Ingredients | Quantity
 
 ## Notes
 
-- note
+> note

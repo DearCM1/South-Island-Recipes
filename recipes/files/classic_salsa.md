@@ -1,20 +1,16 @@
-# Classic Salsa
-
----
+# Classic Salsa 💃🏻
 
 ![image](https://drive.google.com/uc?export=view&id=1qDkKVA_IWu10OeIk8yrnC-elByMisv7A)
 
----
+[//]: # (when adding google drive link, just replace the aset id, don't change anything else about the above link otherwise the image will not display)
 
 ## At A Glance
 
-Quick | Look
+💃🏻 | -
 -- | --
 Serves | 4
 Time | 25 mins
 Calories | 15 kcal/serving
-
----
 
 ## What You'll Need
 
@@ -29,8 +25,6 @@ Coriander | 30g
 Garlic Cloves | 1x
 Lime | 0.5x
 
----
-
 ## Method
 
 1. Finely dice the tomatoes, onions, coriander, and garlic, mixing everything evenly together in a bowl.
@@ -39,8 +33,6 @@ Lime | 0.5x
 
 3. Refrigerate for minimum 30 mins to let the flavours sit.
 
----
-
 ## Notes
 
-- A sharp knife is highly reccommended here.
+> A sharp knife is highly reccommended here.

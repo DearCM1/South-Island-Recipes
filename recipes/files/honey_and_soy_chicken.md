@@ -1,20 +1,16 @@
-# Honey and Soy Chicken
-
----
+# Honey and Soy Chicken 🐝
 
 ![image](https://drive.google.com/uc?export=view&id=19-S2unuvm4syn8Nf7zu8-l-Q4kXzIX8m)
 
----
+[//]: # (when adding google drive link, just replace the aset id, don't change anything else about the above link otherwise the image will not display)
 
 ## At A Glance
 
-Quick | Look
+🐝 | -
 -- | --
 Serves | 2
 Time | 2 hrs 45 mins
 Calories | X kcal
-
----
 
 ## What You'll Need
 
@@ -47,8 +43,6 @@ Spring Onion (sliced) | 3 sprigs
 Lime Wedge 1/4 | x2
 Sesame Seeds | pinch
 
----
-
 ## Method
 
 ### **Preparation**
@@ -67,8 +61,6 @@ Sesame Seeds | pinch
 
 5. Serve with rice, salad, and mint yoghurt. Plenty of garnish throughout.
 
----
-
 ## Notes
 
-- none.
+> none.

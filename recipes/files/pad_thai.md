@@ -1,20 +1,16 @@
-# Pad Thai
-
----
+# Pad Thai 🥦
 
 ![image](https://drive.google.com/uc?export=view&id=1R7mX1ylKLCTEiqDhb3xf_Y104oVDR3ow)
 
----
+[//]: # (when adding google drive link, just replace the aset id, don't change anything else about the above link otherwise the image will not display)
 
 ## At A Glance
 
-Quick | Look
+🥦 | -
 -- | --
 Serves | 2
 Time | 40 mins
 Calories | 750kcal/serving
-
----
 
 ## What You'll Need
 
@@ -55,8 +51,6 @@ Parsley (roughly chopped) | 5 sprigs
 Seasame Seeds | pinch
 Cashew Nuts | handful
 
----
-
 ## Method
 
 ### **Preparation**
@@ -87,10 +81,8 @@ Cashew Nuts | handful
 
 11. Serve with the all the prepared garnishes.
 
----
-
 ## Notes
 
-- Adding boiling water in step 2. helps the peanut butter mix.
+> Adding boiling water in step 2. helps the peanut butter mix.
 
-- Around step 10. in methodology, taste and season.
+> Around step 10. in methodology, taste and season.

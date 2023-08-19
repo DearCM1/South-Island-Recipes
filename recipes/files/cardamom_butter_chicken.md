@@ -1,10 +1,8 @@
 # Cardamom Butter Chicken Curry
 
----
+![image](https://drive.google.com/uc?export=view&id=1TTqqLcTi78Juntj3kqNQUjgtYPNmhLLK)
 
-![image](https://drive.google.com/uc?export=view&id=16al1jxeU2C_RHvADBITDFoYi2ChI_iwE)
-
----
+[//]: # (when adding google drive link, just replace the aset id, don't change anything else about the above link otherwise the image will not display)
 
 ## At A Glance
 
@@ -13,8 +11,6 @@ Quick | Look
 Serves | 2
 Time | 1 hr
 Calories | 430 kcal/serving
-
----
 
 ## What You'll Need
 
@@ -43,8 +39,6 @@ Brown Onion (diced) | 1x
 Tinned Chopped Tomatoes | 250g
 Coriander (chopped) | pinch
 
----
-
 ## Method
 
 ### **Preparation**
@@ -67,8 +61,6 @@ Coriander (chopped) | pinch
 
 7. Serve with fluffy rice and garnish with **coriander**.
 
----
-
 ## Notes
 
-- None.
+> None.
