@@ -1,20 +1,16 @@
 # Recipe Name
 
----
+![image](https://drive.google.com/uc?export=view&id=1TTqqLcTi78Juntj3kqNQUjgtYPNmhLLK)
 
-![image](https://drive.google.com/file/d/1TTqqLcTi78Juntj3kqNQUjgtYPNmhLLK/view?usp=sharing)
-
----
+[//]: # (when adding google drive link, just replace the aset id, don't change anything else about the above link otherwise the image will not display)
 
 ## At A Glance
 
-Quick | Look
+🥦 | -
 -- | --
 Serves | x
 Time | x hrs x mins
 Calories | x kcal/serving
-
----
 
 ## What You'll Need
 
@@ -30,8 +26,6 @@ Ingredients | Quantity
 -- | --
 |
 
----
-
 ## Method
 
 ### **Preparation**
@@ -45,8 +39,6 @@ Ingredients | Quantity
 ### **Service**
 
 3. method
-
----
 
 ## Notes
 
