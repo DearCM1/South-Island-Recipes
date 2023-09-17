@@ -16,14 +16,14 @@ Calories | 300 kcal/serving
 
 Ingredients | Quantity
 -- | --
-Baking Butter (Stork) | 185g
-Dark Chocolate | 200g
-Fine Sea Salt | 1 teaspoon
-Large Eggs | 3x
-Golden Caster Sugar | 275g
-Plain Flour | 85g
-Cocoa Powder | 40g
-Milk Chocolate | 110g
+Baking Butter (Stork) | 370g
+Dark Chocolate | 400g
+Fine Sea Salt | 2 teaspoon
+Large Eggs | 6x
+Golden Caster Sugar | 550g
+Plain Flour | 170g
+Cocoa Powder | 80g
+Milk Chocolate | 220g
 
 ## Method
 

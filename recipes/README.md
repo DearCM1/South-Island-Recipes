@@ -16,6 +16,7 @@
 ## European
 
 - [Chicken and Mushroom Risotto](files/chicken_and_mushroom_risotto.md)
+- [Caponata Parmigiana](files/caponata_parmigiana.md)
 
 ## Salads
 
