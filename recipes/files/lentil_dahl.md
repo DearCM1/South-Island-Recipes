@@ -9,8 +9,8 @@
 🥘 | -
 -- | --
 Serves | 6
-Time | 1 hr
-Calories | 280 kcal/serving
+Time | 1 hr 30 mins
+Calories | 320 kcal/serving
 
 ## What You'll Need
 
@@ -18,17 +18,16 @@ Calories | 280 kcal/serving
 
 Ingredients | Quantity
 -- | --
-Coconut Oil | 1 teaspoon
-Olive Oil | 1 teaspoon
-White Onion (diced) | 1x
-Red Onion (diced) | 1x
-Garlic Cloves (minced) | 8x
+Coconut Oil | 1 tablespoon
+Olive Oil | 1 tablespoon
+Brown Onion (diced) | 3x
+Garlic Cloves (minced) | 2 tablespoon
 Ginger (minced) | 2 tablespoon
-Red Chilli (diced, deseeded) | 0.5x
-Red Lenitils (washed, drained) | 200g
-Tin Chopped Tomatoes | 1x 400g
+Red Chilli (diced, deseeded) | 2x
+Red Lenitils (washed, drained) | 300g
+Tin Chopped Tomatoes | 2x 400g
 Good Quality Coconut Milk | 1x 400g
-Vegetable Stock | 400ml
+Vegetable Stock | 500ml
 Lemon | 0.5x
 Fresh Coriander | *
 
@@ -36,36 +35,34 @@ Fresh Coriander | *
 
 Ingredients | Quantity
 -- | --
-Cumin Seeds | 2 teaspoon
-Coriander Seeds | 2 teaspoon
-Mustard Seeds | 2 teaspoon
-Garam Masala | 1 tablespoon
-Ground Tumeric | 1 tablespoon
+Ground Cumin | 1 tablespoon
+Ground Coriander | 1 tablespoon
+Mustard Seeds | 1 tablespoon
+Garam Masala | 2 tablespoon
+Ground Tumeric | 2 tablespoon
 
 ## Method
 
 ### **Preparation**
 
-1. Toast the cumin, coriander, and mustard seeds in a pan on medium-high heat until the seeds start popping.
-
-2. Place the toasted seeds in a pestle and mortar with a generous pinch of flake salt and the rest of the spice mix and grind to a powder.
+1. Grind up the mustard seeds in a pestle and mortar.
 
 ### **Cooking**
 
-3. Heat both oils and onions in a pot over medium heat until soft.
+2. Heat both oils and onions in a pot over medium heat until soft.
 
-4. Add the garlic, ginger, and chilli and sweat for a few more minutes.
+3. Add the garlic, ginger, and chilli and sweat for a few more minutes.
 
-5. Add spices with a splash of water, maintaining medium heat. Cook for a few extra minutes until fragrant.
+4. Add spices with a splash of water, maintaining medium heat. Cook for a few extra minutes until fragrant.
 
-6. Add the lentils, tomatoes, coconut milk, and vegetable stock to the pot and bring to a simmer.
+5. Add the lentils, tomatoes, coconut milk, and vegetable stock to the pot and bring to a simmer.
 
-7. Cook for minimum 20 minutes, seasoning along the way; if the pot is still watery, add some plain flour to thicken the sauce.
+6. Cook for minimum 20 minutes, seasoning along the way; if the pot is still watery, add some plain flour to thicken the sauce.
 
 ### **Service**
 
-8. Once the consistency is correct, squeeze in fresh lemon juice and stir. Serve with rice, salsa, and a coriander garnish.
+7. Once the consistency is correct, squeeze in fresh lemon juice and stir. Serve with rice, salsa, and a coriander garnish.
 
 ## Notes
 
-> If you're feeling lazy, replace the seed toasting stage with store bought pre-ground spices. If so, be slightly more liberal with the spice measurements.
+> None.
