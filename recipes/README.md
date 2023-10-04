@@ -22,10 +22,6 @@
 
 - [Quinoa and Green Lentil Salad](files/green_lentil_salad.md)
 
-## Sides
-
-- [Classic Salsa](files/classic_salsa.md)
-
 ## Deserts
 
 - [Brownies](files/brownies.md)
