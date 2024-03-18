@@ -2,7 +2,7 @@
 
 ![image](https://drive.google.com/uc?export=view&id=1TTqqLcTi78Juntj3kqNQUjgtYPNmhLLK)
 
-[//]: # (when adding google drive link, just replace the aset id, don't change anything else about the above link otherwise the image will not display)
+[//]: # (when adding google drive link, just replace the asset id, don't change anything else about the above link otherwise the image will not display)
 
 ## At A Glance
 
