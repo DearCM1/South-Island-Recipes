@@ -3,11 +3,9 @@
 ## Fish
 
 - [Fish Cakes](files/fish_cakes.md)
-- [One Pan Puttanesca](files/one_pan_puttanesca.md)
 
 ## Asian
 
-- [Pad Thai](files/pad_thai.md)
 - [Honey and Soy Chicken](files/honey_and_soy_chicken.md)
 - [Lentil Dahl](files/lentil_dahl.md)
 - [Chicken Ramen](files/chicken_ramen.md)
@@ -15,8 +13,8 @@
 
 ## European
 
-- [Chicken and Mushroom Risotto](files/chicken_and_mushroom_risotto.md)
 - [Caponata Parmigiana](files/caponata_parmigiana.md)
+- [One Pan Puttanesca](files/one_pan_puttanesca.md)
 
 ## Salads
 
