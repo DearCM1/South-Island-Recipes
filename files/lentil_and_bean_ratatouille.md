@@ -7,6 +7,7 @@
 (3.5⭐️)
 
 This is a solid, impossibly healthy, weekday meal that is super low effort and is great for reheating. A vegetable, fibre, and protein bomb.
+
 ## At A Glance
 
 | 🐭       | -              |
@@ -39,7 +40,7 @@ This is a solid, impossibly healthy, weekday meal that is super low effort and i
 
 ## Method
 
-### **Preparation**
+### **Cooking**
 
 1. Sweat the **onions** and **carrots** to a large pot with **olive oil** on medium heat until soft and translucent.
 
@@ -50,9 +51,11 @@ This is a solid, impossibly healthy, weekday meal that is super low effort and i
 4. Add in the **lentils**, **beans**, **chicken stock**, **oregano**, **thyme**, **coriander**, **smoked paprika**, **MSG**, and a generous amount of **salt** and **pepper**. Simmer on a low heat for 40 minutes, stirring occasionally to avoid anything from sticking to the bottom and seasoning as you go.
 
 > Check to see if the lentils are cooked, otherwise add more water.
+
 ### **Service**
 
-5. Serve in bowls, add some coriander leaves, basil leaves, or seeds on top if you have any.
+5. Once cooked, serve in bowls, add some coriander leaves, basil leaves, or seeds on top if you have any.
+
 ## Notes
 
 > When we say *teaspoon*, we mean generously so.
