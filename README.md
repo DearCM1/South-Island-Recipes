@@ -15,10 +15,19 @@ Here lies in this repository a collection of our all-time favourite recipes, rat
 ## European
 
 - [Caponata Parmigiana](files/caponata_parmigiana.md) (5.0⭐️)
+- [Greens Pasta](files/greens_pasta.md) (4.0⭐️)
+- [Cottage Cheese Pasta](files/cottage_cheese_pasta.md) (4.0⭐️)
+- [Chicken Pie](files/chicken_pie.md) (5.0⭐️)
 
 ## Salads
 
 - [Quinoa and Green Lentil Salad](files/green_lentil_salad.md) (5.0⭐️)
+
+## Sides and sauces
+
+> Note: sides and sauces are unrated.
+
+- [Salsa Verde](files/salsa_verde.md)
 
 ## Deserts
 
