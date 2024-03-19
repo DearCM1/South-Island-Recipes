@@ -2,6 +2,8 @@
 
 Here lies in this repository a collection of our all-time favourite recipes, rated by the South Island Chef's exceptional and worldly palates.
 
+Green hearts (💚) represent recipes as a whole-food, balanced, and healthy meal.
+
 ## Fish
 
 - [Fish Cakes](files/fish_cakes.md) (3.5⭐️)
@@ -18,7 +20,7 @@ Here lies in this repository a collection of our all-time favourite recipes, rat
 - [Greens Pasta](files/greens_pasta.md) (4.0⭐️)
 - [Cottage Cheese Pasta](files/cottage_cheese_pasta.md) (4.0⭐️)
 - [Chicken Pie](files/chicken_pie.md) (5.0⭐️)
-- [Lentil and Bean Ratatouille](files/lentil_and_bean_ratatouille.md) (3.5⭐️)
+- [Lentil and Bean Ratatouille](files/lentil_and_bean_ratatouille.md) (3.5⭐️) 💚
 
 ## Salads
 

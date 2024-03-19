@@ -4,7 +4,7 @@
 
 [//]: # (when adding google drive link, just replace the asset id, don't change anything else about the above link otherwise the image will not display)
 
-(3.5⭐️)
+(3.5⭐️) 💚
 
 This is a solid, impossibly healthy, weekday meal that is super low effort and is great for reheating. A vegetable, fibre, and protein bomb.
 
