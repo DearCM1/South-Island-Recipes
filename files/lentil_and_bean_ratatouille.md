@@ -1,20 +1,20 @@
 # Lentil and Bean Ratatouille 🐭
 
-![image](https://drive.google.com/uc?export=view&id=1TTqqLcTi78Juntj3kqNQUjgtYPNmhLLK)
+![image](https://drive.google.com/uc?export=view&id=10j9Nghodv30KEOwp4Ekier6IimTlMrat)
 
 [//]: # (when adding google drive link, just replace the asset id, don't change anything else about the above link otherwise the image will not display)
 
 (3.5⭐️) 💚
 
-This is a solid, impossibly healthy, weekday meal that is super low effort and is great for reheating. A vegetable, fibre, and protein bomb.
+This is a solid, impossibly healthy, weekday meal that is super low effort and is great for reheating. A vegetable, fibre, and protein bomb. It says that it serves 4, but you'll likely get a nice lil' lunch portion out of this too.
 
 ## At A Glance
 
 | 🐭       | -              |
 | -------- | -------------- |
 | Serves   | 4              |
-| Time     | 1 hr           |
-| Calories | x kcal/serving |
+| Time     | 1 hr 10 mins   |
+| Calories | 490 kcal/serving |
 
 ## What You'll Need
 
