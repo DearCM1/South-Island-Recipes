@@ -61,7 +61,7 @@ Fresh Coriander | -
 
 4. Add **all spices** with a splash of water, maintaining medium heat. Cook for a few extra minutes until fragrant.
 
-5. Add the **lentils**, **tomatoes**, **coconut milk**, and **vegetable stock** to the pot and bring to a simmer.
+5. Add the **lentils**, **tomatoes**, **coconut milk** (**see notes**), and **vegetable stock** to the pot and bring to a simmer.
 
 6. Cook for minimum 20 minutes, seasoning along the way; if the pot is still watery, add some plain flour to thicken the sauce.
 
@@ -71,6 +71,6 @@ Fresh Coriander | -
 
 ## Notes
 
-> We cannot stress how much the coconut milk affects the dish. When we say *good quality*, we don't mean expensive red-dragon. We mean a good imported brand such as Pride coconut milk.
+> We cannot stress how much the coconut milk affects the dish. When we say *good quality*, we don't mean expensive red-dragon. We mean a good imported brand such as Pride FULL FAT coconut milk.
 
 > Be generous with the spice portions.
