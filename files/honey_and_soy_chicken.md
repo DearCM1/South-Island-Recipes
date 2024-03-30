@@ -6,9 +6,9 @@
 
 [//]: # (remember to give rating and delete the green heart if not a whole-health dish)
 
-(0.0⭐️) 💚 
+(4.0⭐️)
 
-Short description of recipe and what might go with it
+Welcome to the yum-zone. We used to rinse this recipe as a treat meal all the time. What's so nice about it is the contrast between the full honey and soy flavour and the fresh salad and yoghurt.
 
 ## At A Glance
 
@@ -16,9 +16,21 @@ Short description of recipe and what might go with it
 -- | --
 Serves | 2
 Time | 2 hrs 45 mins
-Calories | X kcal
+Calories | x kcal
 
 ## What You'll Need
+
+### **Marinade**
+
+Ingredients | Quantity
+-- | --
+Garlic Cloves (minced) | 6x
+Ginger (minced) | 2 tablespoons
+Vegetable Oil | 1 tablespoon
+Mirin / Rice Wine | 1 tablespoon
+Toasted Seasame Oil | 2 teaspoons
+Dark Soy Sauce | 3 tablespoons
+Honey | 3 tablespoons
 
 ### **Main**
 
@@ -27,18 +39,6 @@ Ingredients | Quantity
 Chicken | 400g
 Red Pepper | 1x
 Red Onion | 1x
-Garlic Cloves (minced) | 6x
-Ginger (minced) | 2 tablespoon
-
-### **Marinade**
-
-Ingredients | Quantity
--- | --
-Vegetable Oil | 1 tablespoon
-Mirin / Rice Wine | 1 tablespoon
-Toasted Seasame Oil | 2 teaspoon
-Dark Soy Sauce | 3 tablespoon
-Honey | 3 tablespoon
 
 ### **Garnish**
 
@@ -53,15 +53,15 @@ Sesame Seeds | pinch
 
 ### **Preparation**
 
-1. Mince the garlic and ginger and mix well with all marinade ingredients, season with salt and pepper.
+1. Mince the **garlic** and **ginger** and mix well with all **marinade** ingredients, season with salt and pepper.
 
-2. Roughly chop the rest of the main ingredients and mix with the marinade mix.
+2. Roughly chop the rest of the **main** ingredients and mix with the marinade mix.
 
 3. Leave the marinade mix in fridge for 2 - 24 hours.
 
 ### **Cooking**
 
-4. Drain ingredients of marinade and add ingredients to a preheated pan to a high heat. Fry until cooked / water has evapourated.
+4. Add the marinaded ingredients to a preheated pan to a high heat. Fry until cooked / water has evapourated.
 
 ### **Service**
 

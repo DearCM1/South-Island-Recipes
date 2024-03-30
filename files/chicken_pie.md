@@ -18,8 +18,6 @@ Calories | x kcal/serving
 
 ## What You'll Need
 
-### **Main**
-
 Ingredients | Quantity
 -- | --
 Boneless chicken thigh | 600g

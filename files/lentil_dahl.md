@@ -6,9 +6,9 @@
 
 [//]: # (remember to give rating and delete the green heart if not a whole-health dish)
 
-(0.0⭐️) 💚 
+(5.0⭐️) 💚
 
-Short description of recipe and what might go with it
+Alas, you may now rest, as you've discovered the best recipe for a lentil dhal that you'll ever find. Conjured up from the brilliant mind of Sir Prof. Daisy Stephens CFA MBA PhD MSc BSc. Such a simple recipe which is stellar tasty and healthy.
 
 ## At A Glance
 
@@ -20,6 +20,16 @@ Calories | 320 kcal/serving
 
 ## What You'll Need
 
+### **Spice Mix**
+
+Ingredients | Quantity
+-- | --
+Mustard Seeds | 1 tablespoon
+Ground Cumin | 1 tablespoon
+Ground Coriander | 1 tablespoon
+Garam Masala | 2 tablespoons
+Ground Tumeric | 2 tablespoons
+
 ### **Main**
 
 Ingredients | Quantity
@@ -27,48 +37,40 @@ Ingredients | Quantity
 Coconut Oil | 1 tablespoon
 Olive Oil | 1 tablespoon
 Brown Onion (diced) | 3x
-Garlic Cloves (minced) | 2 tablespoon
-Ginger (minced) | 2 tablespoon
+Garlic Cloves (minced) | 2 tablespoons
+Ginger (minced) | 2 tablespoons
 Red Chilli (diced, deseeded) | 2x
 Red Lenitils (washed, drained) | 300g
 Tin Chopped Tomatoes | 2x 400g
 Good Quality Coconut Milk | 1x 400g
 Vegetable Stock | 500ml
 Lemon | 0.5x
-Fresh Coriander | *
-
-### **Spice Mix**
-
-Ingredients | Quantity
--- | --
-Ground Cumin | 1 tablespoon
-Ground Coriander | 1 tablespoon
-Mustard Seeds | 1 tablespoon
-Garam Masala | 2 tablespoon
-Ground Tumeric | 2 tablespoon
+Fresh Coriander | -
 
 ## Method
 
 ### **Preparation**
 
-1. Grind up the mustard seeds in a pestle and mortar.
+1. Grind up the **mustard seeds** in a pestle and mortar.
 
 ### **Cooking**
 
-2. Heat both oils and onions in a pot over medium heat until soft.
+2. Heat **both oils** and **onions** in a pot over medium heat until soft.
 
-3. Add the garlic, ginger, and chilli and sweat for a few more minutes.
+3. Add the **garlic**, **ginger**, and **chilli**. Sweat for a few more minutes.
 
-4. Add spices with a splash of water, maintaining medium heat. Cook for a few extra minutes until fragrant.
+4. Add **all spices** with a splash of water, maintaining medium heat. Cook for a few extra minutes until fragrant.
 
-5. Add the lentils, tomatoes, coconut milk, and vegetable stock to the pot and bring to a simmer.
+5. Add the **lentils**, **tomatoes**, **coconut milk**, and **vegetable stock** to the pot and bring to a simmer.
 
 6. Cook for minimum 20 minutes, seasoning along the way; if the pot is still watery, add some plain flour to thicken the sauce.
 
 ### **Service**
 
-7. Once the consistency is correct, squeeze in fresh lemon juice and stir. Serve with rice, salsa, and a coriander garnish.
+7. Once the consistency is correct, squeeze in fresh **lemon** juice and stir. Serve with rice, salsa, and a **coriander** garnish.
 
 ## Notes
 
-> None.
+> We cannot stress how much the coconut milk affects the dish. When we say *good quality*, we don't mean expensive red-dragon. We mean a good imported brand such as Pride coconut milk.
+
+> Be generous with the spice portions.

@@ -11,7 +11,7 @@ Green hearts (💚) represent recipes as a whole-food, balanced, and healthy mea
 ## Asian
 
 - [Honey and Soy Chicken](files/honey_and_soy_chicken.md) (4.0⭐️)
-- [Lentil Dahl](files/lentil_dahl.md) (5.0⭐️)
+- [Lentil Dahl](files/lentil_dahl.md) (5.0⭐️) 💚
 - [Chicken Ramen](files/chicken_ramen.md) (5.0⭐️)
 
 ## European
@@ -24,7 +24,7 @@ Green hearts (💚) represent recipes as a whole-food, balanced, and healthy mea
 
 ## Salads
 
-- [Quinoa and Green Lentil Salad](files/green_lentil_salad.md) (5.0⭐️)
+- [Quinoa and Green Lentil Salad](files/green_lentil_salad.md) (5.0⭐️) 💚
 
 ## Sides and sauces
 

@@ -6,9 +6,9 @@
 
 [//]: # (remember to give rating and delete the green heart if not a whole-health dish)
 
-(0.0⭐️) 💚 
+(5.0⭐️)
 
-Short description of recipe and what might go with it
+This ramen is a solid choice which can easily be used as a base to mix and match with different veg etc. It can be a bit overwhelming on first attempt, just make sure everything is prepped before you cook.
 
 ## At A Glance
 
@@ -71,14 +71,14 @@ Parsley (chopped) | handful
 10. 4 minutes prior to the eggs finishing, add the ramen noodles.
 
 11. Once the time is up on the eggs:
-    - Immedately remove the eggs and cool them in the ice water.
+    - Immediately remove the eggs and cool them in the ice water.
     - Remove the stock pot from heat.
 
 ### **Service**
 
 12. Distribute the ramen and broth evenly between two bowls.
 
-13. Cut the chicken sidways in slices and set on top of the noodles.
+13. Cut the chicken sideways in slices and set on top of the noodles.
 
 14. Once cool to touch, peel the shells from the eggs and slice in half, setting alongside the chicken in the bowls.
 

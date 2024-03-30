@@ -6,16 +6,16 @@
 
 [//]: # (remember to give rating and delete the green heart if not a whole-health dish)
 
-(0.0⭐️) 💚 
+(5.0⭐️) 💚
 
-Short description of recipe and what might go with it
+This salad is actually enjoyable, the lentil hummus base makes it so incredibly moreish. The best part about this is that it's a respectable amount of calories with a shining list of good whole-foods and greens.
 
 ## At A Glance
 
 🥗 | -
 -- | --
 Serves | 4
-Time | 1 hrs
+Time | 1 hrs 30 mins
 Calories | 598 kcal/serving
 
 ## What You'll Need
@@ -29,8 +29,8 @@ Olive Oil | 40ml
 Tahini | 50g
 Lemon | x1
 Garlic cloves | x6
-Coriander |
-Parsley |
+Coriander | -
+Parsley | -
 Mint | just a pinch
 
 ### **Dressing**
@@ -51,12 +51,12 @@ Cherry tomatoes | 250g
 Cucumber | 1x
 Little gem lettuce | 1x
 Avocado | 1x
-Coriander |
+Coriander | -
 Mint | just a pinch
 
 ## Method
 
-### **Lentil Hummus**
+### **Lentil Hummus (1 hour)**
 
 1. Rinse the **lentils** in cold water, cook according to instructions, drain and cool.
 
@@ -66,7 +66,7 @@ Mint | just a pinch
     - 1/4 cup (50ml) cold water
     - 50g **tahini**
     - juice of one **lemon**
-    - 6 **Garlic** cloves
+    - 6 **garlic** cloves
     - handful of **parsley**
     - handful of **coriander**
     - pinch of **mint**
@@ -76,11 +76,16 @@ Mint | just a pinch
 
 3. All done, leave aside for service.
 
-### **Salad Preparation**
+### **Salad Preparation (30 mins)**
 
 4. Rinse and cook the **quinoa** according to instructions. Once done, leave aside to cool.
 
-5. Dressing: Whisk together the **red wine vinegar**, **Dijon mustard**, **olive oil**, juice of one **lemon**, and some salt and pepper.
+5. Dressing: Whisk together:
+    - 4 tablespoons of **red wine vinegar**
+    - 2 tablespoons of **Dijon mustard**
+    - 10ml **olive oil**
+    - juice of one **lemon**
+    - some salt and pepper
 
 6. Chop up the **cherry tomatoes**, **cucumber**, **lettuce**, and **avocado** how you like. Roughly dice some **coriander** and a little bit of **mint**.
 
@@ -96,6 +101,6 @@ Mint | just a pinch
 
 ## Notes
 
-> Best to make the lentil hummus first so its ready to go for service.
+> Best to make the lentil hummus first so its ready to go for service. You can even make the hummus in advance so making the salad on the day is that much easier.
 
 > Butterfly and fry some chicken for extra PROTEIN 💪.
