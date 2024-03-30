@@ -54,7 +54,7 @@ Egg yolk | x1-2
 
 7. Once soft, add in the **red wine vinegar** and cook off for a few minutes.
 
-8. Stir in the **dried green herbs**. Then stir in the **plain flour** a spoon at a time until everything is evenly coated and absorbed.
+8. Add the **chicken thigh** back into the pot and stir in the **dried green herbs**. Then stir in the **plain flour** a spoon at a time until everything is evenly coated and absorbed.
 
 9. Pour in the **milk** a splash at a time, continually mixing until you have a thick pie filling.
 

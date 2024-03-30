@@ -4,6 +4,8 @@ Here lies in this repository a collection of our all-time favourite recipes, rat
 
 Green hearts (💚) represent recipes as a whole-food, balanced, and healthy meal.
 
+Construction emojis (🚧👷‍♂️) represent recipes which are incomplete.
+
 ## Fish
 
 - [Fish Cakes](files/fish_cakes.md) (3.5⭐️)
@@ -16,9 +18,9 @@ Green hearts (💚) represent recipes as a whole-food, balanced, and healthy mea
 
 ## European
 
-- [Caponata Parmigiana](files/caponata_parmigiana.md) (5.0⭐️)
-- [Greens Pasta](files/greens_pasta.md) (4.0⭐️)
-- [Cottage Cheese Pasta](files/cottage_cheese_pasta.md) (4.0⭐️)
+- [Caponata Parmigiana](files/caponata_parmigiana.md) (5.0⭐️) 🚧👷‍♂️
+- [Greens Pasta](files/greens_pasta.md) (4.0⭐️) 🚧👷‍♂️
+- [Cottage Cheese Pasta](files/cottage_cheese_pasta.md) (4.0⭐️) 🚧👷‍♂️
 - [Chicken and Leek Pie](files/chicken_pie.md) (5.0⭐️)
 - [Lentil and Bean Ratatouille](files/lentil_and_bean_ratatouille.md) (3.5⭐️) 💚
 
@@ -30,7 +32,7 @@ Green hearts (💚) represent recipes as a whole-food, balanced, and healthy mea
 
 > Note: sides and sauces are unrated.
 
-- [Salsa Verde](files/salsa_verde.md)
+- [Salsa Verde](files/salsa_verde.md) 🚧👷‍♂️
 
 ## Deserts
 
