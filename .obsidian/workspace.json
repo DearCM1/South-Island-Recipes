@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f10b5c4b72792d12",
+        "id": "0bc9fbca9d000689",
         "type": "tabs",
         "children": [
           {
-            "id": "bb0e8aa5573ce78d",
+            "id": "cbb6b43b8553f6d6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,8 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb0e8aa5573ce78d",
+  "active": "cbb6b43b8553f6d6",
   "lastOpenFiles": [
+    "files/chicken_pie.md",
     "files/lentil_and_bean_ratatouille.md",
     "README.md",
     "files/lentil_dahl.md"

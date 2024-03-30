@@ -2,7 +2,13 @@
 
 ![image](https://drive.google.com/uc?export=view&id=19-S2unuvm4syn8Nf7zu8-l-Q4kXzIX8m)
 
-[//]: # (when adding google drive link, just replace the aset id, don't change anything else about the above link otherwise the image will not display)
+[//]: # (when adding google drive link, just replace the asset id, don't change anything else about the above link otherwise the image will not display)
+
+[//]: # (remember to give rating and delete the green heart if not a whole-health dish)
+
+(0.0⭐️) 💚 
+
+Short description of recipe and what might go with it
 
 ## At A Glance
 
