@@ -18,9 +18,9 @@ Construction emojis (🚧👷‍♂️) represent recipes which are incomplete.
 
 ## European
 
-- [Caponata Parmigiana](files/caponata_parmigiana.md) (5.0⭐️) 🚧👷‍♂️
-- [Greens Pasta](files/greens_pasta.md) (4.0⭐️) 🚧👷‍♂️
-- [Cottage Cheese Pasta](files/cottage_cheese_pasta.md) (4.0⭐️) 🚧👷‍♂️
+- [~~Caponata Parmigiana~~](files/caponata_parmigiana.md) (5.0⭐️) 🚧👷‍♂️
+- [~~Greens Pasta~~](files/greens_pasta.md) (4.0⭐️) 🚧👷‍♂️
+- [~~Cottage Cheese Pasta~~](files/cottage_cheese_pasta.md) (4.0⭐️) 🚧👷‍♂️
 - [Chicken and Leek Pie](files/chicken_pie.md) (5.0⭐️)
 - [Lentil and Bean Ratatouille](files/lentil_and_bean_ratatouille.md) (3.5⭐️) 💚
 
@@ -32,7 +32,7 @@ Construction emojis (🚧👷‍♂️) represent recipes which are incomplete.
 
 > Note: sides and sauces are unrated.
 
-- [Salsa Verde](files/salsa_verde.md) 🚧👷‍♂️
+- [~~Salsa Verde~~](files/salsa_verde.md) 🚧👷‍♂️
 
 ## Deserts
 
