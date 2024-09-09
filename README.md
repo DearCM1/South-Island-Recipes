@@ -26,6 +26,7 @@ Construction emojis (🚧👷‍♂️) represent recipes which are incomplete.
 
 ## Salads
 
+- [Beetroot Hummus and Roast Veg Buddha Bowl](files/beetroot_buddha_bowl.md) (?⭐️) 💚
 - [Quinoa and Green Lentil Salad](files/green_lentil_salad.md) (5.0⭐️) 💚
 
 ## Sides and sauces
