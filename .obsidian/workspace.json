@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2a90610e0072f2ea",
+        "id": "13dc1f4741ccb21c",
         "type": "tabs",
         "children": [
           {
-            "id": "997a0c2c3c02a65a",
+            "id": "2c51dfe09432473f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -51,6 +51,14 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "705fa365674f1cac",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
             }
           }
         ]
@@ -130,8 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "997a0c2c3c02a65a",
+  "active": "2c51dfe09432473f",
   "lastOpenFiles": [
+    "files/beetroot_buddha_bowl.md",
     "README.md",
     "files/template.md",
     "files/salsa_verde.md",

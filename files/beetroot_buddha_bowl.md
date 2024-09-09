@@ -46,7 +46,7 @@ EV Olive Oil | x
     - Half of the tinned **chickpeas** (200g)
     - Half of the **beetroot** wedges (125g)
     - **Tahini**
-    - Squeeze of **lemon** juice
+    - Squeeze of **lemon** juice (save a couple of wedges for garnish)
     - 1 Tablespoon of **olive oil**
     - 1 Tablespoon of water
     - Generous pinch of salt
@@ -82,6 +82,7 @@ EV Olive Oil | x
     - Roasted **beetroot** wedges
     - Roasted **chickpeas**
     - Roasted **tenderstem broccoli**
+    - **Lemon** wedge
 
 6. Drizzle over the **garlic** dressing and chuck some **mixed seeds** on top.
 
