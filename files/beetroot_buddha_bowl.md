@@ -1,41 +1,37 @@
 # Beetroot Hummus and Roast Veg Buddha Bowl 🥗
 
-![image](https://drive.google.com/uc?export=view&id=1TTqqLcTi78Juntj3kqNQUjgtYPNmhLLK)
+![image](https://drive.google.com/uc?export=view&id=1OuXEkk7LstXn7LccWqALnejQ2NMWXUf_)
 
-[//]: # (when adding google drive link, just replace the asset id, don't change anything else about the above link otherwise the image will not display)
+(3.5⭐️) 💚 
 
-[//]: # (remember to give rating and delete the green heart if not a whole-health dish)
-
-(?⭐️) 💚 
-
-Not yet tried (🔴🔴🔴 UPDATE ONCE COOKED 🔴🔴🔴)
+More of a weekend job, high effort in regards to washing up but worth the effort, SO much fibre and good stuff.
 
 ## At A Glance
 
-🥗 | -
--- | --
-Serves | 2
-Time | 🔴 hrs 🔴 mins
-Calories | 426 kcal/serving
+| 🥗       | -                |
+| -------- | ---------------- |
+| Serves   | 2                |
+| Time     | 1 hrs 30 mins    |
+| Calories | 450 kcal/serving |
 
 ## What You'll Need
 
 ### **Main**
 
-Ingredients | Quantity
--- | --
-Chickpeas (tinned, drained, rinsed) | 400g
-Cooked Beetroot (wedges)| 250g
-Tahini | 15g
-Lemon | x1
-Bulgur Wheat | 75g
-Butternut Squash (cubed) | 160g
-Tenderstem Broccoli | 160g
-Garlic | x4 cloves
-Ground Cumin | 1 teaspoon
-Rocket | 50g
-Mixed Seeds | 1 tablespoon
-EV Olive Oil | x
+| Ingredients                         | Quantity     |
+| ----------------------------------- | ------------ |
+| Chickpeas (tinned, drained, rinsed) | 400g         |
+| Cooked Beetroot (wedges)            | 250g         |
+| Tahini                              | 15g          |
+| Lemon                               | x1           |
+| Bulgur Wheat                        | 100g         |
+| Butternut Squash (cubed)            | 160g         |
+| Tenderstem Broccoli                 | 160g         |
+| Garlic                              | x4 cloves    |
+| Ground Cumin                        | 1 teaspoon   |
+| Rocket                              | 50g          |
+| Mixed Seeds                         | 1 tablespoon |
+| EV Olive Oil                        | x            |
 
 ## Method
 
@@ -88,4 +84,4 @@ EV Olive Oil | x
 
 ## Notes
 
-> note
+> Chuck whatever else you want in as well: avocado, sauerkraut etc. 

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "13dc1f4741ccb21c",
+        "id": "9f4b186d831e0cdf",
         "type": "tabs",
         "children": [
           {
-            "id": "2c51dfe09432473f",
+            "id": "0da859ddd077c904",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,7 +138,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c51dfe09432473f",
+  "active": "0da859ddd077c904",
   "lastOpenFiles": [
     "files/beetroot_buddha_bowl.md",
     "README.md",
