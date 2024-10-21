@@ -1,6 +1,6 @@
 # Lentil Dahl 🥘
 
-![image](https://drive.google.com/uc?export=view&id=1wgNpJ5Y8XfwfvIM_kVZ_EPLn6pPzpT_H)
+![image](https://drive.google.com/uc?export=view&id=1zn_sxDfvUV4HnuqwD7JuVec5GbHlM5Cq)
 
 [//]: # (when adding google drive link, just replace the asset id, don't change anything else about the above link otherwise the image will not display)
 
