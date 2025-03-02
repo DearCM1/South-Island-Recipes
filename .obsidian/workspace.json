@@ -4,15 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9f4b186d831e0cdf",
+        "id": "e9d3a9d198da6374",
         "type": "tabs",
         "children": [
           {
-            "id": "0da859ddd077c904",
+            "id": "4551d02b54c0777c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "files/mushroom_gnocchi_bake.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "mushroom_gnocchi_bake"
             }
           }
         ]
@@ -34,8 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -50,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -58,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -88,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -99,7 +114,9 @@
               "state": {
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -110,7 +127,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -118,7 +137,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
             }
           }
         ]
@@ -138,22 +161,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0da859ddd077c904",
+  "active": "4551d02b54c0777c",
   "lastOpenFiles": [
-    "files/beetroot_buddha_bowl.md",
     "README.md",
+    "files/mushroom_gnocchi_bake.md",
     "files/template.md",
+    "Untitled.md",
+    "files/caponata_parmigiana.md",
+    "files/lentil_and_bean_ratatouille.md",
+    "files/beetroot_buddha_bowl.md",
+    "files/chicken_pie.md",
+    "files/chicken_ramen.md",
     "files/salsa_verde.md",
     "files/lentil_dahl.md",
-    "files/lentil_and_bean_ratatouille.md",
     "files/honey_and_soy_chicken.md",
     "files/greens_pasta.md",
     "files/green_lentil_salad.md",
     "files/fish_cakes.md",
     "files/cottage_cheese_pasta.md",
-    "files/chicken_ramen.md",
-    "files/chicken_pie.md",
-    "files/caponata_parmigiana.md",
     "files/brownies.md"
   ]
 }
