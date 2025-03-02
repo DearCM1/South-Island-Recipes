@@ -1,47 +1,80 @@
-# Mushroom & Taleggio Gnocchi Bake 🍄‍🟫
+# Mushroom & Cheese Gnocchi Bake 🍄‍🟫
 
 ![image](https://drive.google.com/uc?export=view&id=1wlSM3ZiCAySsZG-nU_hF-f84kTW9iqRT)
 
 (5.0⭐️)
 
-Short description of recipe and what might go with it
+One of the finest Mob Kitchen recipes, adapted for your convenience–that's right, you're welcome. This slaps. Indisputably. Best had with some simply salt and pepper grilled chicken or white fish.
 
 ## At A Glance
 
-🥦 | -
--- | --
-Serves | x
-Time | x hrs x mins
-Calories | x kcal/serving
+| 🍄‍🟫    | -              |
+| -------- | -------------- |
+| Serves   | 4              |
+| Time     | 1 hr           |
+| Calories | x kcal/serving |
 
 ## What You'll Need
 
-### **Main**
+### **Main** Ingredients
 
-Ingredients | Quantity
--- | --
-|
+| Ingredients        | Quantity |
+| ------------------ | -------- |
+| White Mushrooms    | 1 Pack   |
+| Chestnut Mushrooms | 1 Pack   |
+| Brown Onion        | x1       |
+| Parsley            | 1 Bunch  |
+| Baby Leaf Spinach  | 400 g    |
+| Gnocchi (fresh)    | 800 g    |
+| Cheddar Cheese     | 200 g    |
+| Olive Oil          |          |
 
-### **Sauce**
+### **Seasonings**
 
-Ingredients | Quantity
--- | --
-|
+| Ingredients               | Quantity      |
+| ------------------------- | ------------- |
+| Garlic                    | 6 Cloves      |
+| Italian Seasoning         | 1 Teaspoon    |
+| Chilli Flakes             | 1 Tablespoon  |
+| Lemon                     | x1            |
+| Mushroom Ketchup (Note 1) | 2 Tablespoons |
+| Chicken/Veg Stock         | 100 ml        |
+| Single Cream              | 4 Tablespoons |
+| Salt and Black Pepper     |               |
 
 ## Method
 
 ### **Preparation**
 
-1. method
+- Preheat oven to 180 °C.
 
 ### **Cooking**
 
-2. method
-
+1. Cut up the following and place in a large sauce pan with some **olive oil**:
+	- Thinly slice all the **mushrooms**.
+	- Finely dice the **brown onion**.
+	- Roughly chop the **parsley**, leaving some for garnish.
+2. Heat saucepan on medium-low heat until the **mushrooms** and **onion** have softened.
+3. Add all the seasonings into the sauce pan and let simmer for 5 minutes:
+	- 6x **garlic cloves** however you like.
+	- 1 teaspoon **Italian Seasoning**.
+	- 1 Tablespoon **chilli flakes**.
+	- Zest of 1 **lemon**.
+	- 2 tablespoons **mushroom ketchup** (Note 1).
+	- 100 ml **stock**.
+	- 4 tablespoons **single cream**.
+	- **Salt and pepper** to taste.
+4. Mix in all the **spinach** with the sauce and cover with a lid on low heat to wilt.
+5. Boil the **Gnocchi** for ***HALF THE TIME*** of the instructions (Note 2).
+	- Add a few tablespoons of the **Gnocchi** water to the sauce pan.
+6. Mix in the **Gnocchi** with the sauce with the juice of the **lemon**.
+7. Pour everything into a baking dish and add sliced **cheddar cheese** on top with a crack of **salt**, **pepper**, and some **chilli flakes**.
+8. Bake for 20 minutes.
 ### **Service**
 
-3. method
+1. Serve with a garnish of **parsley** and eat either by itself or with some grilled chicken or lemony white fish.
 
 ## Notes
 
-> note
+> 1. Get your hands on the [Geo Watkins Mushroom Ketchup](https://www.geowatkins.com/products/geo-watkins-mushroom-ketchup-190ml) to completely blast this dish to space. You can find it at most major supermarkets.
+> 2. The **Gnocchi** will cook additionally in the oven, so boil for half the time to stop them getting too soft.
