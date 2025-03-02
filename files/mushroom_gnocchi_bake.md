@@ -72,7 +72,7 @@ One of the finest Mob Kitchen recipes, adapted for your convenience–that's rig
 8. Bake for 20 minutes.
 ### **Service**
 
-1. Serve with a garnish of **parsley** and eat either by itself or with some grilled chicken or lemony white fish.
+9. Serve with a garnish of **parsley** and eat either by itself or with some grilled chicken or lemony white fish.
 
 ## Notes
 
