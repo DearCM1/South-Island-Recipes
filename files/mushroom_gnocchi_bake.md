@@ -35,11 +35,11 @@ One of the finest Mob Kitchen recipes, adapted for your convenience–that's rig
 | ------------------------- | ------------- |
 | Garlic                    | 6 Cloves      |
 | Italian Seasoning         | 1 Teaspoon    |
-| Chilli Flakes             | 1 Tablespoon  |
+| Chilli Flakes             | 2 Teaspoon    |
 | Lemon                     | x1            |
 | Mushroom Ketchup (Note 1) | 2 Tablespoons |
 | Chicken/Veg Stock         | 100 ml        |
-| Single Cream              | 4 Tablespoons |
+| Single Cream              | 150 ml        |
 | Salt and Black Pepper     |               |
 
 ## Method
@@ -58,11 +58,11 @@ One of the finest Mob Kitchen recipes, adapted for your convenience–that's rig
 3. Add all the seasonings into the sauce pan and let simmer for 5 minutes:
 	- 6x **garlic cloves** however you like.
 	- 1 teaspoon **Italian Seasoning**.
-	- 1 Tablespoon **chilli flakes**.
+	- 2 teaspoons **chilli flakes**.
 	- Zest of 1 **lemon**.
 	- 2 tablespoons **mushroom ketchup** (Note 1).
 	- 100 ml **stock**.
-	- 4 tablespoons **single cream**.
+	- 150 ml  **single cream**.
 	- **Salt and pepper** to taste.
 4. Mix in all the **spinach** with the sauce and cover with a lid on low heat to wilt.
 5. Boil the **Gnocchi** for ***HALF THE TIME*** of the instructions (Note 2).
