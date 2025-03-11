@@ -6,6 +6,8 @@
 
 An easy weeknight dinner which is a certified 🥵flavour bomb🥵. This recipe is mainly for the squash itself and could be interchanged with whatever carb/salad/protein you wish–we like it with soy sauce rice and peas and some gochujang fried prawns.
 
+We know, we know, the keen reader will already be saying, "umm, actually, the above image asset has slices of butternut squash instead of cubed, as per the recipe–pray tell, why there is a discrepancy?", to which we respond "brush my nuts."
+
 ## At A Glance
 
 | 🦐       | -              |
