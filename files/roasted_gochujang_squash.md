@@ -4,7 +4,7 @@
 
 (4.0⭐️)
 
-An easy weeknight dinner which is a certified 🥵flavour bomb🥵. This recipe is mainly for the squash itself and could be interchanged with whatever carb/salad/protein you wish–we like it with soy rice and peas and some gochujang fried prawns.
+An easy weeknight dinner which is a certified 🥵flavour bomb🥵. This recipe is mainly for the squash itself and could be interchanged with whatever carb/salad/protein you wish–we like it with soy sauce rice and peas and some gochujang fried prawns.
 
 ## At A Glance
 
@@ -67,7 +67,7 @@ An easy weeknight dinner which is a certified 🥵flavour bomb🥵. This recipe 
 
 ### **Service**
 
-1. Plate up your **rice** and **peas**, followed by your air fried **butternut squash**, finally topped with your **prawns**, chopped **coriander**, and diced **spring onions**.
+8. Plate up your **rice** and **peas**, followed by your air fried **butternut squash**, finally topped with your **prawns**, chopped **coriander**, and diced **spring onions**.
 
 ## Notes
 
