@@ -62,8 +62,8 @@ An easy weeknight dinner which is a certified 🥵flavour bomb🥵. This recipe 
 6. After 10 minutes, remove the **butternut squash** back into your oiling bowl and generously add the **gochujang sauce**, leaving some extra for the **prawns**.
 	- Place back inside the air fryer for another 10 minutes (with a halfway shake).
 7. 5 minutes before service:
-	- Add however many **frozen peas** feel right to your rice to thaw through, adding some extra **soy sauce** to the mix.
-	- AND, in a frying pan, cook your **prawns** with some extra **gochujang sauce**.
+	- Add however many **frozen peas** feel right to your rice to thaw through, adding some **soy sauce** to the mix.
+	- AND, in a frying pan, cook your **prawns** with the left over **gochujang sauce**.
 
 ### **Service**
 
