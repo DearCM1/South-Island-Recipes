@@ -11,10 +11,14 @@
             "id": "3b4c1384d4bd0b91",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "files/roasted_gochujang_squash.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "roasted_gochujang_squash"
             }
           }
         ]
@@ -159,6 +163,8 @@
   },
   "active": "3b4c1384d4bd0b91",
   "lastOpenFiles": [
+    "README.md",
+    "files/roasted_gochujang_squash.md",
     "files/mushroom_gnocchi_bake.md",
     "files/sweet_and_sour_tofu.md",
     "files/fish_cakes.md",
@@ -167,7 +173,6 @@
     "files/honey_and_soy_chicken.md",
     "files/lentil_and_bean_ratatouille.md",
     "files/lentil_dahl.md",
-    "README.md",
     "files/template.md",
     "Untitled.md",
     "files/caponata_parmigiana.md",

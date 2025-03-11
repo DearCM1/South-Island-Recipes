@@ -15,6 +15,7 @@ Construction emojis (🚧👷‍♂️) represent recipes which are incomplete.
 - [Honey and Soy Chicken](files/honey_and_soy_chicken.md) (4.0⭐️)
 - [Lentil Dahl](files/lentil_dahl.md) (5.0⭐️) 💚
 - [Chicken Ramen](files/chicken_ramen.md) (5.0⭐️)
+- [Gochujang Squash and Prawns](files/roasted_gochujang_squash.md) (4.0⭐️)
 
 ## European
 
