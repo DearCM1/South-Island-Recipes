@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0c0dbe4335e55cda",
+        "id": "4d2795305282bec3",
         "type": "tabs",
         "children": [
           {
-            "id": "6d3ebfa54390fbec",
+            "id": "9d800715a9f18db6",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -159,10 +157,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d3ebfa54390fbec",
+  "active": "9d800715a9f18db6",
   "lastOpenFiles": [
-    "files/roasted_gochujang_squash.md",
     "README.md",
+    "files/curry_secret_gpt.md",
+    "files/curry_secret.md",
+    "files/roasted_gochujang_squash.md",
     "files/mushroom_gnocchi_bake.md",
     "files/sweet_and_sour_tofu.md",
     "files/fish_cakes.md",
