@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4d2795305282bec3",
+        "id": "83bfa7553f024213",
         "type": "tabs",
         "children": [
           {
-            "id": "9d800715a9f18db6",
+            "id": "b6a8f2da14285334",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -149,6 +149,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -157,26 +158,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9d800715a9f18db6",
+  "active": "b6a8f2da14285334",
   "lastOpenFiles": [
+    "files/chicken_stew.md",
+    "files/template.md",
+    "files/chicken_ramen.md",
+    "files/fish_cakes.md",
     "README.md",
     "files/curry_secret_gpt.md",
     "files/curry_secret.md",
     "files/roasted_gochujang_squash.md",
     "files/mushroom_gnocchi_bake.md",
     "files/sweet_and_sour_tofu.md",
-    "files/fish_cakes.md",
     "files/green_lentil_salad.md",
     "files/greens_pasta.md",
     "files/honey_and_soy_chicken.md",
     "files/lentil_and_bean_ratatouille.md",
     "files/lentil_dahl.md",
-    "files/template.md",
     "Untitled.md",
     "files/caponata_parmigiana.md",
     "files/beetroot_buddha_bowl.md",
     "files/chicken_pie.md",
-    "files/chicken_ramen.md",
     "files/salsa_verde.md",
     "files/cottage_cheese_pasta.md",
     "files/brownies.md"
