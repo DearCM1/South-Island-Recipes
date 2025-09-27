@@ -20,7 +20,7 @@ Construction emojis (🚧👷‍♂️) represent recipes which are incomplete.
 
 ## European
 
-- [~~Caponata Parmigiana~~](files/caponata_parmigiana.md) (5.0⭐️) 🚧👷‍♂️
+- [Caponata Parmigiana](files/caponata_parmigiana.md) (5.0⭐️)
 - [~~Greens Pasta~~](files/greens_pasta.md) (4.0⭐️) 🚧👷‍♂️
 - [~~Cottage Cheese Pasta~~](files/cottage_cheese_pasta.md) (4.0⭐️) 🚧👷‍♂️
 - [Chicken and Leek Pie](files/chicken_pie.md) (5.0⭐️)
