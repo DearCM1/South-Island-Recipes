@@ -8,7 +8,7 @@
 
 (5.0⭐️)
 
-Medium effort show-stopper meal that is well worth the time. Follow these here instructions and you'll find yourself in juicy town.
+Medium effort show-stopper meal that is well worth the time. Follow these instructions and you'll find yourself in Juicy Town.
 
 ## At A Glance
 
@@ -20,21 +20,21 @@ Calories | x kcal/serving
 
 ## What You'll Need
 
-Ingredients | Quantity
--- | --
-Aubergines (large) | x3
-Plain All-Purpose Flour | x
-Red Onions | x2
-Fresh Parsley | 1 bunch
-Capers | 2 tablespoons
-Pitted Kalamata Olives | 2 tablespoons
-Red Wine Vinegar | 4 tablespoons
-Tinned Plum Tomatoes | x3
-Mozzarella Balls | x3
-Grated Parmesan | to taste
-Olive Oil | as needed
-Salt & Pepper | to taste
-Sugar (caster or granulated) | 2 teaspoons
+| Ingredients                  | Quantity      |
+| ---------------------------- | ------------- |
+| Aubergines (large) (sliced)  | x3            |
+| Plain All-Purpose Flour      | x             |
+| Red Onions (diced)           | x2            |
+| Fresh Parsley                | 1 bunch       |
+| Capers                       | 2 tablespoons |
+| Pitted Kalamata Olives       | 2 tablespoons |
+| Red Wine Vinegar             | 4 tablespoons |
+| Tinned Plum Tomatoes         | x3            |
+| Mozzarella Balls (sliced)    | x3            |
+| Grated Parmesan              | to taste      |
+| Olive Oil                    | as needed     |
+| Salt & Pepper                | to taste      |
+| Sugar (caster or granulated) | 2 teaspoons   |
 
 ## Method
 

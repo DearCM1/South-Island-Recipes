@@ -75,7 +75,7 @@ One of the finest Mob Kitchen recipes, adapted for your convenience–that's rig
 
 6. Pour everything into a baking dish and add sliced **cheddar cheese** on top with a crack of **salt**, **pepper**, and some **chilli flakes**.
 
-7. Bake for 20 minutes.
+7. Bake for 20 minutes, or until the cheese as browned nicely on top.
 
 ### **Service**
 
