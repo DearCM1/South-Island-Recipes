@@ -42,3 +42,4 @@ Construction emojis (🚧👷‍♂️) represent recipes which are incomplete.
 ## Deserts
 
 - [Brownies](files/brownies.md) (5.0⭐️)
+- [Chewy Ginger Cookies](files/ginger_cookies.md) (5.0⭐️)

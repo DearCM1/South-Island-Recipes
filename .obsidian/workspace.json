@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "files/ginger_cookies.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ginger_cookies"
+              "title": "README"
             }
           }
         ]
@@ -164,8 +164,11 @@
   },
   "active": "a1c262ca9fed5d02",
   "lastOpenFiles": [
-    "files/greens_pasta.md",
     "files/ginger_cookies.md",
+    "README.md",
+    "files/ginger_cookes.md",
+    "files/brownies.md",
+    "files/greens_pasta.md",
     "files/green_lentil_salad.md",
     "files/lentil_and_bean_ratatouille.md",
     "files/fish_cakes.md",
@@ -184,7 +187,6 @@
     "files/lentil_dahl.md",
     "files/beetroot_buddha_bowl.md",
     "files/salsa_verde.md",
-    "files/cottage_cheese_pasta.md",
-    "files/brownies.md"
+    "files/cottage_cheese_pasta.md"
   ]
 }
