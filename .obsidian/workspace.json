@@ -11,10 +11,14 @@
             "id": "a1c262ca9fed5d02",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "files/ginger_cookies.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "ginger_cookies"
             }
           }
         ]
@@ -160,24 +164,24 @@
   },
   "active": "a1c262ca9fed5d02",
   "lastOpenFiles": [
-    "files/chicken_stew.md",
+    "files/greens_pasta.md",
+    "files/ginger_cookies.md",
+    "files/green_lentil_salad.md",
+    "files/lentil_and_bean_ratatouille.md",
+    "files/fish_cakes.md",
     "files/caponata_parmigiana.md",
+    "files/chicken_stew.md",
     "files/mushroom_gnocchi_bake.md",
     "files/chicken_pie.md",
-    "files/fish_cakes.md",
     "files/template.md",
     "files/chicken_ramen.md",
-    "README.md",
+    "files/README.md",
     "files/curry_secret_gpt.md",
     "files/curry_secret.md",
     "files/roasted_gochujang_squash.md",
     "files/sweet_and_sour_tofu.md",
-    "files/green_lentil_salad.md",
-    "files/greens_pasta.md",
     "files/honey_and_soy_chicken.md",
-    "files/lentil_and_bean_ratatouille.md",
     "files/lentil_dahl.md",
-    "Untitled.md",
     "files/beetroot_buddha_bowl.md",
     "files/salsa_verde.md",
     "files/cottage_cheese_pasta.md",
