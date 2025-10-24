@@ -6,7 +6,7 @@
 
 (5.0⭐️)
 
-Grab yourself a bottle of champagne in preparation to smash against your flagship's maiden voyage towards the discovery of the CEO of the All Things Sweet industry's best kept secret. These chewy ginger cookies are a spice explosion in your mouth. In your big, fat, greedy mouth. Fatty.
+Grab yourself a bottle of champagne in preparation to smash against your flagship's maiden voyage towards the discovery of our best kept secret. These chewy ginger cookies are a spice explosion in your mouth. In your big, fat, greedy mouth. Fatty.
 
 Perfect with a cup of tea with some friends 🧡
 
