@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8b8cabf586816206",
+        "id": "a8f8d6bc46e00757",
         "type": "tabs",
         "children": [
           {
-            "id": "69ae9a1c2cc22299",
+            "id": "a1c262ca9fed5d02",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -158,11 +158,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "69ae9a1c2cc22299",
+  "active": "a1c262ca9fed5d02",
   "lastOpenFiles": [
+    "files/chicken_stew.md",
     "files/caponata_parmigiana.md",
     "files/mushroom_gnocchi_bake.md",
-    "files/chicken_stew.md",
     "files/chicken_pie.md",
     "files/fish_cakes.md",
     "files/template.md",

@@ -1,6 +1,6 @@
 # Chicken Stew 🍲
 
-![image](https://drive.google.com/uc?export=view&id=1TTqqLcTi78Juntj3kqNQUjgtYPNmhLLK)
+![image](https://drive.google.com/uc?export=view&id=1C8m0sd4Jjjri6Sl2eN-XFm4ca6Ma6Mf7)
 
 [//]: # (when adding google drive link, just replace the asset id, don't change anything else about the above link otherwise the image will not display)
 
@@ -12,11 +12,11 @@ You wanna chicken stew? You gotta chicken stew.
 
 ## At A Glance
 
-🍲 | -
--- | --
-Serves | 4
-Time | 1 hr
-Calories | x kcal/serving
+| 🍲       | -              |
+| -------- | -------------- |
+| Serves   | 4              |
+| Time     | 1 hr           |
+| Calories | x kcal/serving |
 
 ## What You'll Need
 
