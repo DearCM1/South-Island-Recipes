@@ -1,4 +1,4 @@
-# Lentil Dahl 🥘
+# Lentil Dhal 🥘
 
 ![image](https://drive.google.com/uc?export=view&id=1zn_sxDfvUV4HnuqwD7JuVec5GbHlM5Cq)
 
@@ -22,30 +22,30 @@ Calories | 320 kcal/serving
 
 ### **Spice Mix**
 
-Ingredients | Quantity
--- | --
-Mustard Seeds | 1 tablespoon
-Ground Cumin | 1 tablespoon
-Ground Coriander | 1 tablespoon
-Garam Masala | 2 tablespoons
-Ground Tumeric | 2 tablespoons
+| Ingredients      | Quantity      |
+| ---------------- | ------------- |
+| Mustard Seeds    | 1 tablespoon  |
+| Ground Cumin     | 1 tablespoon  |
+| Ground Coriander | 1 tablespoon  |
+| Garam Masala     | 2 tablespoons |
+| Ground Turmeric  | 2 tablespoons |
 
 ### **Main**
 
-Ingredients | Quantity
--- | --
-Coconut Oil | 1 tablespoon
-Olive Oil | 1 tablespoon
-Brown Onion (diced) | 3x
-Garlic Cloves (minced) | 2 tablespoons
-Ginger (minced) | 2 tablespoons
-Red Chilli (diced, deseeded) | 2x
-Red Lenitils (washed, drained) | 300g
-Tin Chopped Tomatoes | 2x 400g
-Good Quality Coconut Milk | 1x 400g
-Vegetable Stock | 500ml
-Lemon | 0.5x
-Fresh Coriander | -
+| Ingredients                   | Quantity      |
+| ----------------------------- | ------------- |
+| Coconut Oil                   | 1 tablespoon  |
+| Olive Oil                     | 1 tablespoon  |
+| Brown Onion (diced)           | 3x            |
+| Garlic Cloves (minced)        | 2 tablespoons |
+| Ginger (minced)               | 2 tablespoons |
+| Red Chilli (diced, deseeded)  | 2x            |
+| Red Lentils (washed, drained) | 300g          |
+| Tin Chopped Tomatoes          | 2x 400g       |
+| Good Quality Coconut Milk     | 1x 400g       |
+| Vegetable Stock               | 500ml         |
+| Lemon                         | 0.5x          |
+| Fresh Coriander               | -             |
 
 ## Method
 
