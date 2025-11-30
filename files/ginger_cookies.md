@@ -1,4 +1,5 @@
 # Chewy Ginger Cookies 🍪
+---
 
 ![image](https://drive.google.com/uc?export=view&id=16xFh7wluiTToEkQtN3x7NOiMQ7PK7V00)
 
@@ -10,6 +11,7 @@ Grab yourself a bottle of champagne in preparation to smash against your flagshi
 
 Perfect with a cup of tea with some friends 🧡
 
+---
 ## At A Glance
 
 🍪 | -
@@ -17,6 +19,8 @@ Perfect with a cup of tea with some friends 🧡
 Makes | 12 large cookies
 Time | 25 mins
 Calories | x kcal/cookie
+
+---
 ## What You'll Need
 
 | Ingredients                                                       | Quantity                 |
@@ -30,6 +34,8 @@ Calories | x kcal/cookie
 | Self-Raising Flour *(or Plain Flour + 2 teaspoons Baking Powder)* | 500 g                    |
 | Salt                                                              | Pinch                    |
 | Milk                                                              | as needed                |
+
+---
 ## Method
 
 ### **Preparation**
@@ -59,6 +65,7 @@ Calories | x kcal/cookie
    - They should be golden at the edges and slightly soft in the centre.
 9. Allow to cool on the tray for 5 minutes, then transfer to a wire rack.
 
+---
 ## Notes
 
 > These cookies are best enjoyed warm and chewy.

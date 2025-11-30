@@ -1,4 +1,5 @@
 # Lentil Dhal 🥘
+---
 
 ![image](https://drive.google.com/uc?export=view&id=1zn_sxDfvUV4HnuqwD7JuVec5GbHlM5Cq)
 
@@ -10,6 +11,7 @@
 
 Alas, you may now rest, as you've discovered the best recipe for a lentil dhal that you'll ever find. Conjured up from the brilliant mind of Sir Prof. Daisy Stephens CFA MBA PhD MSc BSc. Such a simple recipe which is stellar tasty and healthy.
 
+---
 ## At A Glance
 
 🥘 | -
@@ -18,6 +20,7 @@ Serves | 6
 Time | 1 hr 30 mins
 Calories | 320 kcal/serving
 
+---
 ## What You'll Need
 
 ### **Spice Mix**
@@ -47,6 +50,7 @@ Calories | 320 kcal/serving
 | Lemon                         | 0.5x          |
 | Fresh Coriander               | -             |
 
+---
 ## Method
 
 ### **Preparation**
@@ -69,6 +73,7 @@ Calories | 320 kcal/serving
 
 7. Once the consistency is correct, squeeze in fresh **lemon** juice and stir. Serve with rice, salsa, and a **coriander** garnish.
 
+---
 ## Notes
 
 > We cannot stress how much the coconut milk affects the dish. When we say *good quality*, we don't mean expensive red-dragon. We mean a good imported brand such as Pride FULL FAT coconut milk.

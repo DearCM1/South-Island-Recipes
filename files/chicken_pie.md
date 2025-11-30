@@ -1,4 +1,5 @@
 # Chicken and leek pie 🔥🐔🔥
+---
 
 ![image](https://drive.google.com/uc?export=view&id=18UtVw7fKm4-0d4mBLX0HGStVMQKvfu7a)
 
@@ -8,6 +9,7 @@
 
 This pie bangs. Take measurements as you wish, this is one of those dishes where you just eyeball everything and taste. Works amazing to go as a gravy and veg dinner, but surprisingly also works well just using the filling with some penne pasta or rice.
 
+---
 ## At A Glance
 
 🔥🐔🔥 | -
@@ -16,6 +18,7 @@ Serves | 4
 Time | 1 hr
 Calories | x kcal/serving
 
+---
 ## What You'll Need
 
 Ingredients | Quantity
@@ -34,6 +37,7 @@ Umami-based sauce (**see notes**) | -
 Roll of puff pastry | -
 Egg yolk | x1-2
 
+---
 ## Method
 
 ### **Preparation**
@@ -68,6 +72,7 @@ Egg yolk | x1-2
 
 12. Serve up with some veggies and gravy.
 
+---
 ## Notes
 
 > Ingredients: Dried green herbs: Try some dried tarragon, or oregano, or mixed Italian seasoning. Just make sure to use sparingly as it can easily overpower the dish.

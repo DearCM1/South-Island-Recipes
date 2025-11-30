@@ -1,4 +1,5 @@
 # Chicken Stew 🍲
+---
 
 ![image](https://drive.google.com/uc?export=view&id=1C8m0sd4Jjjri6Sl2eN-XFm4ca6Ma6Mf7)
 
@@ -10,6 +11,7 @@
 
 You wanna chicken stew? You gotta chicken stew.
 
+---
 ## At A Glance
 
 | 🍲       | -              |
@@ -18,6 +20,7 @@ You wanna chicken stew? You gotta chicken stew.
 | Time     | 1 hr           |
 | Calories | x kcal/serving |
 
+---
 ## What You'll Need
 
 | Ingredients                         | Quantity   |
@@ -41,6 +44,7 @@ You wanna chicken stew? You gotta chicken stew.
 | Worcestershire Sauce                | to taste   |
 | Salt & Pepper                       | to taste   |
 
+---
 ## Method
 
 ### **Preparation**
@@ -63,6 +67,7 @@ You wanna chicken stew? You gotta chicken stew.
 10. Remove from heat. Stir in the **fresh parsley** and **grated parmesan**, letting the residual heat meld everything together.  
 11. Serve hot with bread, mashed potato, or as a standalone stew.  
 
+---
 ## Notes
 
 > Chicken thighs will provide deeper flavour, but breasts keep it lighter.

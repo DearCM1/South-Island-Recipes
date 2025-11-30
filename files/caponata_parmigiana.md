@@ -1,4 +1,5 @@
 # Caponata Parmigiana 🍆🫒
+---
 
 ![image](https://drive.google.com/uc?export=view&id=1bqnZcGa9WX5sEChlxTDE0OgLI2Hw0krv)
 
@@ -10,6 +11,7 @@
 
 Medium effort show-stopper meal that is well worth the time. Follow these instructions and you'll find yourself in Juicy Town.
 
+---
 ## At A Glance
 
 🍆 | -
@@ -18,6 +20,7 @@ Serves | 4
 Time | 1 hr 30 min
 Calories | x kcal/serving
 
+---
 ## What You'll Need
 
 | Ingredients                  | Quantity      |
@@ -36,6 +39,7 @@ Calories | x kcal/serving
 | Salt & Pepper                | to taste      |
 | Sugar (caster or granulated) | 2 teaspoons   |
 
+---
 ## Method
 
 ### **Preparation**
@@ -80,6 +84,7 @@ Calories | x kcal/serving
 
 13. Allow to rest for **10 minutes** before serving (Note 2).
 
+---
 ## Notes
 
 > Note 1: There is generally a bitter taste to the sauce before finishing. Adding one to two teaspoons of sugar balances the acridity and pairs nicely with the **red wine vinegar** to make it extra juicy. 

@@ -1,4 +1,5 @@
 # Brownies
+---
 
 ![image](https://drive.google.com/uc?export=view&id=1ZMGbxDygVUe7C-VPonhvnx2Rjds4PsC5)
 
@@ -31,13 +32,14 @@ Plain Flour | 170g
 Cocoa Powder | 80g
 Milk Chocolate | 220g
 
+---
 ## Method
 
 ### **Preparation**
 
 1. Preheat fan oven to 160°C.
 
-2. Break up the **dark chocolate** into cubes and add to a bowl with the **butter**. Melt in a microwave at 30 second invervals. Once melted, mix together with a level teaspoon of **fine sea salt** and leave aside to cool.
+2. Break up the **dark chocolate** into cubes and add to a bowl with the **butter**. Melt in a microwave at 30 second intervals. Once melted, mix together with a level teaspoon of **fine sea salt** and leave aside to cool.
 
 3. Whisk the **eggs** and **sugar** in a kitchen aid (**see notes**) for 5 minutes on the highest power, until the mix leaves a trail on the surface when dropped from the whisk.
 
@@ -61,6 +63,7 @@ Milk Chocolate | 220g
 
 11. Serve with a dusting of icing sugar and a scoop of vanilla ice cream.
 
+---
 ## Notes
 
 > Step 3: If you don't have a kitchen aid, hand-whisk until the eggs and sugar double in size and the whisk leaves a trail when dripping.

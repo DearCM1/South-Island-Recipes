@@ -1,4 +1,5 @@
 # Quinoa and Green Lentil Salad 🥗
+---
 
 ![image](https://drive.google.com/uc?export=view&id=1DWr63WkZWsIw7sjJro2M3pt8v3We3dtt)
 
@@ -10,6 +11,7 @@
 
 This salad is actually enjoyable, the lentil hummus base makes it so incredibly moreish. The best part about this is that it's a respectable amount of calories with a shining list of good whole-foods and greens.
 
+---
 ## At A Glance
 
 🥗 | -
@@ -18,6 +20,7 @@ Serves | 4
 Time | 1 hrs 30 mins
 Calories | 598 kcal/serving
 
+---
 ## What You'll Need
 
 ### **Lentil Hummus**
@@ -54,6 +57,7 @@ Avocado | 1x
 Coriander | -
 Mint | just a pinch
 
+---
 ## Method
 
 ### **Lentil Hummus (1 hour)**
@@ -99,6 +103,7 @@ Mint | just a pinch
 
 > Put some mixed seeds on top if you're feeling special.
 
+---
 ## Notes
 
 > Best to make the lentil hummus first so its ready to go for service. You can even make the hummus in advance so making the salad on the day is that much easier.

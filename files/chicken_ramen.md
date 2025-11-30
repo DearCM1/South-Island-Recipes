@@ -1,4 +1,5 @@
 # Chicken Ramen 🍜
+---
 
 ![image](https://drive.google.com/uc?export=view&id=1INPYyxiY_xpEdarA9Nb-fykqQ85C6oWv)
 
@@ -10,6 +11,7 @@
 
 This ramen is a solid choice which can easily be used as a base to mix and match with different veg etc. It can be a bit overwhelming on first attempt, just make sure everything is prepped before you cook.
 
+---
 ## At A Glance
 
 🍜 | -
@@ -18,6 +20,7 @@ Serves | 2
 Time | 1 hr
 Calories | x kcal/serving
 
+---
 ## What You'll Need
 
 Ingredients | Quantity
@@ -37,6 +40,7 @@ Medium Eggs | x2
 Spring Onions (sliced) | handful
 Parsley (chopped) | handful
 
+---
 ## Method
 
 ### **Preparation**
@@ -84,6 +88,7 @@ Parsley (chopped) | handful
 
 15. Garnish with the parsley and spring onions with a splash of soy sauce.
 
+---
 ## Notes
 
 > Preparation is key on this, make sure everything is prepped before attempting to cook as you'll be focusing on the cooking process once started.

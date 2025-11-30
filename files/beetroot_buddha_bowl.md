@@ -1,4 +1,5 @@
 # Beetroot Hummus and Roast Veg Buddha Bowl 🥗
+---
 
 ![image](https://drive.google.com/uc?export=view&id=1OuXEkk7LstXn7LccWqALnejQ2NMWXUf_)
 
@@ -6,6 +7,7 @@
 
 More of a weekend job, high effort in regards to washing up but worth the effort, SO much fibre and good stuff.
 
+---
 ## At A Glance
 
 | 🥗       | -                |
@@ -14,6 +16,7 @@ More of a weekend job, high effort in regards to washing up but worth the effort
 | Time     | 1 hrs 30 mins    |
 | Calories | 450 kcal/serving |
 
+---
 ## What You'll Need
 
 ### **Main**
@@ -33,6 +36,7 @@ More of a weekend job, high effort in regards to washing up but worth the effort
 | Mixed Seeds                         | 1 tablespoon |
 | EV Olive Oil                        | x            |
 
+---
 ## Method
 
 ### **Preparation**
@@ -82,6 +86,7 @@ More of a weekend job, high effort in regards to washing up but worth the effort
 
 6. Drizzle over the **garlic** dressing and chuck some **mixed seeds** on top.
 
+---
 ## Notes
 
 > Chuck whatever else you want in as well: avocado, sauerkraut etc. 

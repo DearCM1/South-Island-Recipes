@@ -1,4 +1,5 @@
 # Recipe Name 🥦
+---
 
 ![image](https://drive.google.com/uc?export=view&id=1TTqqLcTi78Juntj3kqNQUjgtYPNmhLLK)
 
@@ -10,14 +11,16 @@
 
 Short description of recipe and what might go with it
 
+---
 ## At A Glance
 
-🥦 | -
--- | --
-Serves | x
-Time | x hrs x mins
-Calories | x kcal/serving
+| 🥦       | -              |
+| -------- | -------------- |
+| Serves   | x              |
+| Time     | x hrs x mins   |
+| Calories | x kcal/serving |
 
+---
 ## What You'll Need
 
 ### **Main**
@@ -32,6 +35,7 @@ Ingredients | Quantity
 -- | --
 |
 
+---
 ## Method
 
 ### **Preparation**
@@ -46,6 +50,7 @@ Ingredients | Quantity
 
 3. method
 
+---
 ## Notes
 
 > note

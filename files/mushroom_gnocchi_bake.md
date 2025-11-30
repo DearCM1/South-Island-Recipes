@@ -1,11 +1,14 @@
 # Mushroom & Cheese Gnocchi Bake 🍄‍🟫
 
+---
+
 ![image](https://drive.google.com/uc?export=view&id=1wlSM3ZiCAySsZG-nU_hF-f84kTW9iqRT)
 
 (5.0⭐️)
 
 One of the finest Mob Kitchen recipes, adapted for your convenience–that's right, you're welcome. This slaps. Indisputably. Best had with some simply salt and pepper grilled chicken or white fish.
 
+---
 ## At A Glance
 
 | 🍄‍🟫    | -              |
@@ -14,6 +17,7 @@ One of the finest Mob Kitchen recipes, adapted for your convenience–that's rig
 | Time     | 1 hr           |
 | Calories | x kcal/serving |
 
+---
 ## What You'll Need
 
 ### **Main** Ingredients
@@ -42,6 +46,7 @@ One of the finest Mob Kitchen recipes, adapted for your convenience–that's rig
 | Single Cream              | 150 ml        |
 | Salt and Black Pepper     |               |
 
+---
 ## Method
 
 ### **Preparation**
@@ -81,7 +86,9 @@ One of the finest Mob Kitchen recipes, adapted for your convenience–that's rig
 
 8. Serve with a garnish of **parsley** and eat either by itself or with some grilled chicken or lemony white fish.
 
+---
 ## Notes
 
-> 1. Get your hands on the [Geo Watkins Mushroom Ketchup](https://www.geowatkins.com/products/geo-watkins-mushroom-ketchup-190ml) to completely blast this dish to space. You can find it at most major supermarkets.
-> 2. The **gnocchi** will cook with the excess water in the dish whilst in the oven. By not pre-boiling the **gnocchi** all the starch remains in the dish, helping thicken the sauce and create a better bite (no sludge).
+>*Note 1:* Get your hands on the Geo Watkins Mushroom Ketchup to completely blast this dish to space. You can find it at most major supermarkets.
+
+>*Note 2:* The **gnocchi** will cook with the excess water in the dish whilst in the oven. By not pre-boiling the **gnocchi** all the starch remains in the dish, helping thicken the sauce and create a better bite (no sludge).

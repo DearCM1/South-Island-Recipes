@@ -1,5 +1,5 @@
 # The Curry Secret (GPT Enhanced)
-
+---
 ## The Curry Sauce
 
 This is the most closely guarded of all the secrets of restaurant cooking.
@@ -9,8 +9,6 @@ Once prepared, it has a very smooth texture and a pale golden colour. Taste it a
 You will see that the making of the curry sauce is in fact simple, with no special equipment required other than a blender. It is essential, though, that you follow strictly the instructions for blending and skimming as these are the two procedures that can make the difference between a good curry sauce and a poor one.
 
 The quantities I have given are enough for six to eight people. If you do not require so much, you may halve the quantity of each ingredient, or alternatively freeze the remainder of the finished sauce. I have included freezing instructions where applicable. Although Indian restaurants do not normally do this, it is a perfectly good way of taking advantage of your freezer at home.
-
----
 
 ### How to Make the Curry Sauce
 
@@ -58,14 +56,11 @@ The quantities I have given are enough for six to eight people. If you do not re
 **Storage:** Cool and refrigerate up to 4 days, or freeze in portions for up to 2 months.  
 
 ---
-
 ## Chicken Dishes
 
 ### The Right Equipment
 
 A restaurant chef always uses a large frying pan with deep sides (approximately 4 inches or 10 cm) for cooking curries. This ensures a large amount of food is in contact with the hot surface at one time and provides a wide area for evaporation. Not only does this speed up cooking, but it also allows more rapid thickening of sauces without overcooking the meat, fish, or vegetables. If you do not have such a pan, use a large enough saucepan to achieve the same benefits.
-
----
 
 ### How to Prepare the Chicken
 
@@ -106,8 +101,6 @@ For our curries we have always used only breast portions of chicken cooked in a 
    - Remove chicken pieces with a slotted spoon, leaving behind any thick sediment in the pan.  
    - Cool, then use immediately in curries, refrigerate up to 4 days, or freeze in portions for up to 2 months.  
 
----
-
 ### How to Make the Curries
 
 Once you have the sauce, making curries is extremely easy.
@@ -119,7 +112,6 @@ Do not reduce the amount of oil during cooking; if necessary, skim excess from t
 Restaurants often use food colourings (red and yellow) to give dishes their expected appearance, though they do not affect flavour. You may substitute natural colourings (e.g. paprika or turmeric) or omit them altogether, but be aware that some traditional dishes, such as tandoori chicken or chicken tikka masala, are strongly associated with specific colours.
 
 ---
-
 ## Chicken Bhuna Masala
 
 This spicy dish is a firm favourite. (Spicy does not necessarily mean hot!)
