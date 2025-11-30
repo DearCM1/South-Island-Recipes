@@ -79,8 +79,8 @@ A vegetable and legume ratatouille-style stew built for max-style flavour which 
 ### **4. It all comes together**
 
 14. Fold the **roasted aubergine and courgette** into the pot.
-15. Cook for another **5–10 minutes** to meld flavours.
-16. Add **red wine vinegar or lemon juice** to brighten the dish<sup>Note 5</sup>.
+15. Cook for another 5–10 minutes to meld flavours.
+16. Add **red wine vinegar** or **lemon juice** to brighten the dish<sup>Note 5</sup>.
 17. Adjust seasoning one final time.
 
 ### **5. Service please**
